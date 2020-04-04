@@ -118,4 +118,11 @@ class ListNode {
         }
         temp.next = new ListNode(val);
     }
+
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                '}';
+    }
 }

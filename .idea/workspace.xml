@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_295.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +35,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Solution_295.test">
-    <configuration name="Solution_206.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_206" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution_2.test">
     <configuration name="Solution_295" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -58,6 +49,16 @@
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution_295" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution_2.test" />
         <item itemvalue="JUnit.Solution_295.test" />
         <item itemvalue="JUnit.Solution_295" />
         <item itemvalue="JUnit.Solution_506" />
         <item itemvalue="JUnit.Solution_506.test" />
-        <item itemvalue="JUnit.Solution_206.test" />
       </list>
     </recent_temporary>
   </component>
@@ -111,30 +112,30 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="193" y="42" key="#Project_Structure/0.0.1200.760@0.0.1200.760" timestamp="1585985057364" />
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1586011281441">
+    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1586016599737">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1586011281441" />
+    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1586016599737" />
     <state x="252" y="125" key="FileChooserDialogImpl" timestamp="1585990000716">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1585990000716" />
-    <state width="1159" height="190" key="GridCell.Tab.0.bottom" timestamp="1586012279823">
+    <state width="1159" height="190" key="GridCell.Tab.0.bottom" timestamp="1586016798282">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="190" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586012279823" />
-    <state width="1159" height="190" key="GridCell.Tab.0.center" timestamp="1586012279823">
+    <state width="1159" height="190" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586016798282" />
+    <state width="1159" height="190" key="GridCell.Tab.0.center" timestamp="1586016798281">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="190" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1586012279823" />
-    <state width="1159" height="190" key="GridCell.Tab.0.left" timestamp="1586012279823">
+    <state width="1159" height="190" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1586016798281" />
+    <state width="1159" height="190" key="GridCell.Tab.0.left" timestamp="1586016798281">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="190" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1586012279823" />
-    <state width="1159" height="190" key="GridCell.Tab.0.right" timestamp="1586012279823">
+    <state width="1159" height="190" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1586016798281" />
+    <state width="1159" height="190" key="GridCell.Tab.0.right" timestamp="1586016798281">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="190" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1586012279823" />
+    <state width="1159" height="190" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1586016798281" />
     <state x="81" y="0" key="SettingsEditor" timestamp="1585992127427">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
