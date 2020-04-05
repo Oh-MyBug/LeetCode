@@ -7,4 +7,4 @@ Programming ideas &amp; Code
 - [206. 反转链表](src/Solution_206.java)
 - [295. 数据流的中位数(效果差)](src/Solution_295.java)
 - [506. 相对名次](src/Solution_506.java)
-
+- [1160. 拼写单词](src/Solution_1160.java)
