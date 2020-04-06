@@ -1,5 +1,6 @@
 import org.junit.Test;
 
+import javax.print.attribute.standard.NumberUp;
 import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Objects;
@@ -27,11 +28,10 @@ public class Solution_1 {
         System.out.println(twoSum(nums, 6)[0] + " " + twoSum(nums, 6)[1]);
     }
     /**
-     * 将nums数组存入HashMap map中,key为nums数值，value为index
-     * ① 存入过程中如果出现之前已存入相同nums数值的状况，判断相同nums数值相加是否为target，
-     *    若是，则直接返回这两个nums数值的index
-     * ② 存入结束后，再次循环遍历nums数组，判断target-nums[i]是否存在，若存在，则返回nums[i]和
-     *    target-nums[i]的index；若不存在，则继续遍历
+     * 将nums数组对应的target-nums[i]存入HashMap map中,key为target-nums[i]数值，value为index
+     * 存入过程中，判断当前nums[i]是否已存在于map数组中，
+     * 若存在，说明当前nums[i]值等于之前已存入的target-nums[j]，
+     * 即返回当前nums[i]的index和target-nums[j]的index
      * @Function twoSum
      * @author   Oh_MyBug
      * @Date     2020/4/6 15:38
@@ -41,17 +41,10 @@ public class Solution_1 {
     public int[] twoSum(int[] nums, int target) {
         HashMap map = new HashMap<Integer,Integer>();
         for (int i = 0; i < nums.length; i ++){
-            if (map.get(nums[i]) != null){
-                if (2*nums[i] == target){
-                    return new int[]{(int) map.get(nums[i]), i};
-                }
+            if (map.containsKey(nums[i])){
+                return new int[]{i,(int)map.get(nums[i])};
             }
-            map.put(nums[i], i);
-        }
-        for (int num: nums){1. 两数之和
-            if (map.get(target - num) != null && (int)map.get(num) != (int)map.get(target - num)){
-                return new int[]{(int)map.get(num), (int)map.get(target - num)};
-            }
+            map.put(target - nums[i], i);
         }
         return null;
     }
