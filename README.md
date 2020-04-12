@@ -5,6 +5,8 @@ Programming ideas &amp; Code
 - [2.两数相加](src/Solution_2.java)
 - [61.旋转链表](src/Solution_61.java)
 - [101.对称二叉树](src/Solution_101.java)
+- [143. 重排链表](src/Solution_143.java)
+- [160. 相交链表](src/Solution_160.java)
 - [206. 反转链表](src/Solution_206.java)
 - [295. 数据流的中位数(效果差)](src/Solution_295.java)
 - [350. 两个数组的交集 II](src/Solution_350.java)
