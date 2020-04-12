@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="" />
+    <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_160.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_160.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,32 +35,30 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Solution_160.test">
+  <component name="RunManager" selected="Application.Solution_143">
+    <configuration name="Solution_143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_143" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_143.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_143" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_160.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution_160" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_350" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_350" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_143" />
+        <item itemvalue="JUnit.Solution_143.test" />
         <item itemvalue="JUnit.Solution_160.test" />
         <item itemvalue="JUnit.Solution_375.test" />
         <item itemvalue="JUnit.Solution_350.test" />
-        <item itemvalue="JUnit.Solution_350" />
-        <item itemvalue="JUnit.Solution_1.test" />
       </list>
     </recent_temporary>
   </component>
@@ -121,38 +123,38 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1585990000716" />
-    <state width="1159" height="185" key="GridCell.Tab.0.bottom" timestamp="1586704531071">
+    <state width="1159" height="185" key="GridCell.Tab.0.bottom" timestamp="1586710463711">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586704531071" />
-    <state width="1159" height="185" key="GridCell.Tab.0.center" timestamp="1586704531071">
+    <state width="1159" height="185" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586710463711" />
+    <state width="1159" height="185" key="GridCell.Tab.0.center" timestamp="1586710463711">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1586704531071" />
-    <state width="1159" height="185" key="GridCell.Tab.0.left" timestamp="1586704531071">
+    <state width="1159" height="185" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1586710463711" />
+    <state width="1159" height="185" key="GridCell.Tab.0.left" timestamp="1586710463711">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1586704531071" />
-    <state width="1159" height="185" key="GridCell.Tab.0.right" timestamp="1586704531071">
+    <state width="1159" height="185" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1586710463711" />
+    <state width="1159" height="185" key="GridCell.Tab.0.right" timestamp="1586710463711">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1586704531071" />
-    <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1586704337547">
+    <state width="1159" height="185" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1586710463711" />
+    <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1586710441614">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586704337547" />
-    <state width="1159" height="236" key="GridCell.Tab.1.center" timestamp="1586704337546">
+    <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1586710441614" />
+    <state width="1159" height="236" key="GridCell.Tab.1.center" timestamp="1586710441614">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1586704337546" />
-    <state width="1159" height="236" key="GridCell.Tab.1.left" timestamp="1586704337545">
+    <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1586710441614" />
+    <state width="1159" height="236" key="GridCell.Tab.1.left" timestamp="1586710441614">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1586704337545" />
-    <state width="1159" height="236" key="GridCell.Tab.1.right" timestamp="1586704337546">
+    <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1586710441614" />
+    <state width="1159" height="236" key="GridCell.Tab.1.right" timestamp="1586710441614">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1586704337546" />
+    <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1586710441614" />
     <state x="81" y="0" key="SettingsEditor" timestamp="1585992127427">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
