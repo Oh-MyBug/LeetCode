@@ -5,8 +5,9 @@ Programming ideas &amp; Code
 |:-----|:-----:       |:-----:             |
 | [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
+| [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            |  
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           |     
-| [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 39.5 MB--5.55%            |     
+| [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |     
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |     
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
@@ -16,5 +17,5 @@ Programming ideas &amp; Code
 | [506. 相对名次](src/Solution_506.java)                   |                |                           |
 | [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 40.6MB--100%              |  
 | [849. 到最近的人的最大距离](src/Solution_849.java)        |                |                           |  
-| [906. 超级回文数](src/Solution_849.java)                 |                |                           |  
+| [906. 超级回文数](src/Solution_906.java)                 |                |                           |  
 | [1160. 拼写单词](src/Solution_1160.java)                 |                |                           |  
