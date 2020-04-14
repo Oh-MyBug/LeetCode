@@ -103,6 +103,7 @@ class ListNode {
     int val;
     ListNode next;
     ListNode(int x) { val = x; }
+
     /**
      * 在当前ListNode this尾部添加一个节点，数值为val
      * @Function add
@@ -117,6 +118,15 @@ class ListNode {
             temp = temp.next;
         }
         temp.next = new ListNode(val);
+    }
+
+    public static void show(ListNode head){
+        ListNode p = head;
+        while (p!=null){
+            System.out.print(p.val + " ");
+            p = p.next;
+        }
+        System.out.println();
     }
 
     @Override
