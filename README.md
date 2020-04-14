@@ -11,11 +11,12 @@ Programming ideas &amp; Code
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |     
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
-| [206. 反转链表](src/Solution_206.java)                   |                |                           |     
+| [206. 反转链表](src/Solution_206.java)                   |                |                           |  
+| [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
 | [350. 两个数组的交集 II](src/Solution_350.java)           |                |                           |     
 | [506. 相对名次](src/Solution_506.java)                   |                |                           |
-| [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 40.6MB--100%              |  
+| [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 40.6 MB--100%             |  
 | [849. 到最近的人的最大距离](src/Solution_849.java)        |                |                           |  
 | [906. 超级回文数](src/Solution_906.java)                 |                |                           |  
 | [1160. 拼写单词](src/Solution_1160.java)                 |                |                           |  
