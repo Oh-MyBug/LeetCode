@@ -4,6 +4,7 @@ Programming ideas &amp; Code
 - [1. 两数之和](src/Solution_1.java)
 - [2.两数相加](src/Solution_2.java)
 - [61.旋转链表](src/Solution_61.java)
+- [86.分隔链表(0ms--100%  39.5 MB--5.55%)](src/Solution_86.java)
 - [101.对称二叉树](src/Solution_101.java)
 - [143. 重排链表](src/Solution_143.java)
 - [160. 相交链表](src/Solution_160.java)
