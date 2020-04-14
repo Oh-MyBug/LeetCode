@@ -2,7 +2,7 @@
 Programming ideas &amp; Code
 ### List of solved problems
 | Title | Running Time | Memory Consumption |
-|:-----:|:-----:       |:-----:             |
+|:-----|:-----:       |:-----:             |
 | [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           |     
