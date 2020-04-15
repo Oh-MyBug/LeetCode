@@ -10,7 +10,8 @@ Programming ideas &amp; Code
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
 | [24. 两两交换链表中的节点](src/Solution_24.java)          | 0ms--100%      | 37.3 MB--6.35%            | 
 | [25. K 个一组翻转链表](src/Solution_25.java)              | 0ms--100%      | 40 MB--7.32%              | 
-| [61. 旋转链表](src/Solution_61.java)                     |                |                           |     
+| [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
+| [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |    
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |     
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |     
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
