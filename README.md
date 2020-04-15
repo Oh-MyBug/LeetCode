@@ -5,7 +5,9 @@ Programming ideas &amp; Code
 |:-----|:-----:       |:-----:             |
 | [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
-| [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            |  
+| [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
+| [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
+| [25. K 个一组翻转链表](src/Solution_25.java)              | 1ms--100%      | 41.5 MB--58.82%           | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           |     
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |     
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |     
