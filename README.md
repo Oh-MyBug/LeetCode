@@ -9,7 +9,7 @@ Programming ideas &amp; Code
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
 | [24. 两两交换链表中的节点](src/Solution_24.java)          | 0ms--100%      | 37.3 MB--6.35%            | 
-| [25. K 个一组翻转链表](src/Solution_25.java)              | 1ms--100%      | 41.5 MB--58.82%           | 
+| [25. K 个一组翻转链表](src/Solution_25.java)              | 0ms--100%      | 40 MB--7.32%              | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           |     
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |     
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |     
