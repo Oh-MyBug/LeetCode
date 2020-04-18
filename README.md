@@ -18,6 +18,7 @@ Programming ideas &amp; Code
 | [100. 相同的树](src/Solution_100.java)                   | 0ms--100%      | 37.3 MB--5.55%            | 
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |    
 | [102. 二叉树的层序遍历](src/Solution_102.java)            | 1ms--92.90%    | 40.1MB--5.71%             |    
+| [104. 二叉树的最大深度](src/Solution_104.java)            | 0ms--100%      | 40.1MB--5.75%             |    
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
