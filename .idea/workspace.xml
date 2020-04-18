@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_1240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_96.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_83.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_1240.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_1240.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_94.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +37,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Solution_1240">
+  <component name="RunManager" selected="Application.Solution_96">
     <configuration name="Solution_1240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_1240" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_24" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_96" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_96" />
         <item itemvalue="Application.Solution_1240" />
         <item itemvalue="Application.Solution_83" />
         <item itemvalue="Application.Solution_82" />
         <item itemvalue="Application.Solution_25" />
-        <item itemvalue="Application.Solution_24" />
       </list>
     </recent_temporary>
   </component>
@@ -116,46 +117,46 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1585990000716" />
-    <state width="1159" height="236" key="GridCell.Tab.0.bottom" timestamp="1587097301990">
+    <state width="1159" height="185" key="GridCell.Tab.0.bottom" timestamp="1587167897962">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.0.center" timestamp="1587097301990">
+    <state width="1159" height="185" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587167897962" />
+    <state width="1159" height="185" key="GridCell.Tab.0.center" timestamp="1587167897962">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.0.left" timestamp="1587097301990">
+    <state width="1159" height="185" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587167897962" />
+    <state width="1159" height="185" key="GridCell.Tab.0.left" timestamp="1587167897962">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.0.right" timestamp="1587097301990">
+    <state width="1159" height="185" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587167897962" />
+    <state width="1159" height="185" key="GridCell.Tab.0.right" timestamp="1587167897962">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1587097301990">
+    <state width="1159" height="185" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587167897962" />
+    <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1587167897899">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.1.center" timestamp="1587097301990">
+    <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587167897899" />
+    <state width="1159" height="236" key="GridCell.Tab.1.center" timestamp="1587167897899">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.1.left" timestamp="1587097301990">
+    <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587167897899" />
+    <state width="1159" height="236" key="GridCell.Tab.1.left" timestamp="1587167897899">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
-    <state width="1159" height="236" key="GridCell.Tab.1.right" timestamp="1587097301990">
+    <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587167897899" />
+    <state width="1159" height="236" key="GridCell.Tab.1.right" timestamp="1587167897899">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587097301990" />
+    <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587167897899" />
     <state x="81" y="0" key="SettingsEditor" timestamp="1585992127427">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="81" y="0" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1585992127427" />
-    <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587097716070">
+    <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587220537474">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="294" y="209" key="com.intellij.ide.util.TipDialog/0.0.1200.760@0.0.1200.760" timestamp="1587097716070" />
+    <state x="294" y="209" key="com.intellij.ide.util.TipDialog/0.0.1200.760@0.0.1200.760" timestamp="1587220537474" />
     <state x="257" y="171" key="run.anything.popup" timestamp="1586921012842">
       <screen x="0" y="0" width="1200" height="760" />
     </state>

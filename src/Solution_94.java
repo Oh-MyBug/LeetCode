@@ -7,6 +7,19 @@ import java.util.List;
  * author:    Oh_MyBug
  * version:   V1.0
  */
+/*
+94. 二叉树的中序遍历
+给定一个二叉树，返回它的中序 遍历。
+示例:
+    输入: [1,null,2,3]
+       1
+        \
+         2
+        /
+       3
+
+    输出: [1,3,2]
+ */
 public class Solution_94 {
 
     public static void main(String[] args) {
