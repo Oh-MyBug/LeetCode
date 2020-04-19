@@ -26,7 +26,8 @@ Programming ideas &amp; Code
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
 | [350. 两个数组的交集 II](src/Solution_350.java)           |                |                           |     
 | [506. 相对名次](src/Solution_506.java)                   |                |                           |
-| [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 40.6 MB--100%             |  
+| [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 37.6 MB--100%             |  
 | [849. 到最近的人的最大距离](src/Solution_849.java)        |                |                           |  
-| [906. 超级回文数](src/Solution_906.java)                 |                |                           |  
+| [906. 超级回文数](src/Solution_906.java)                 |                |                           | 
+| [965. 单值二叉树](src/Solution_965.java)                 | 0ms--100%      | 37.7 MB--25%              |  
 | [1160. 拼写单词](src/Solution_1160.java)                 |                |                           |  
