@@ -1,8 +1,8 @@
 # LeetCode
 Programming ideas &amp; Code
 ### List of solved problems
-| Title | Running Time | Memory Consumption |
-|:-----|:-----:       |:-----:             |
+| Title | Running Time | Memory Consumption | Note|
+|:-----|:-----:       |:-----:             |:-----             |
 | [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
@@ -33,5 +33,6 @@ Programming ideas &amp; Code
 | [707. 设计链表](src/Solution_707.java)                   | 12ms--81.85%   | 37.6 MB--100%             |  
 | [849. 到最近的人的最大距离](src/Solution_849.java)        |                |                           |  
 | [906. 超级回文数](src/Solution_906.java)                 |                |                           | 
+| [938. 二叉搜索树的范围和](src/Solution_938.java)          | 0ms--100%      | 47.4 MB--6.67%            | 不明白| 
 | [965. 单值二叉树](src/Solution_965.java)                 | 0ms--100%      | 37.7 MB--25%              |  
 | [1160. 拼写单词](src/Solution_1160.java)                 |                |                           |  
