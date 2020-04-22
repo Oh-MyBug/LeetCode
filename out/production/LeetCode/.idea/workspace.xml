@@ -35,7 +35,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.TreeTest">
+  <component name="RunManager" selected="JUnit.TreeTest.test1">
     <configuration name="Solution_111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_111" />
       <module name="LeetCode" />
@@ -50,18 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_98" />
+    <configuration name="Solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_96" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_98" />
       <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TreeTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TreeTest" />
         <item itemvalue="JUnit.TreeTest.test1" />
         <item itemvalue="Application.Solution_98" />
         <item itemvalue="Application.Solution_235" />
         <item itemvalue="Application.Solution_111" />
+        <item itemvalue="Application.Solution_96" />
       </list>
     </recent_temporary>
   </component>
@@ -120,22 +118,22 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1159" height="185" key="GridCell.Tab.0.bottom" timestamp="1587521374001">
+    <state width="1159" height="236" key="GridCell.Tab.0.bottom" timestamp="1587393062994">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587521374001" />
-    <state width="1159" height="185" key="GridCell.Tab.0.center" timestamp="1587521374001">
+    <state width="1159" height="236" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062994" />
+    <state width="1159" height="236" key="GridCell.Tab.0.center" timestamp="1587393062993">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587521374001" />
-    <state width="1159" height="185" key="GridCell.Tab.0.left" timestamp="1587521374001">
+    <state width="1159" height="236" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062993" />
+    <state width="1159" height="236" key="GridCell.Tab.0.left" timestamp="1587393062992">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587521374001" />
-    <state width="1159" height="185" key="GridCell.Tab.0.right" timestamp="1587521374001">
+    <state width="1159" height="236" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062992" />
+    <state width="1159" height="236" key="GridCell.Tab.0.right" timestamp="1587393062994">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="185" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587521374001" />
+    <state width="1159" height="236" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062994" />
     <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1587393062997">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
