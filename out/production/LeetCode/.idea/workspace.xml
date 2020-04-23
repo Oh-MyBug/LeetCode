@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/TreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,42 +48,52 @@
   <component name="ProjectId" id="1a4BaZscVwQ5GwZnIyV5jj5Vy9N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.TreeTest.test1">
-    <configuration name="Solution_111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_111" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_235" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_96" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution_1">
     <configuration name="Solution_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_98" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution_1" />
+        <item itemvalue="JUnit.Solution_1.test" />
+        <item itemvalue="JUnit.TreeTest" />
         <item itemvalue="JUnit.TreeTest.test1" />
         <item itemvalue="Application.Solution_98" />
-        <item itemvalue="Application.Solution_235" />
-        <item itemvalue="Application.Solution_111" />
-        <item itemvalue="Application.Solution_96" />
       </list>
     </recent_temporary>
   </component>
@@ -94,18 +128,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585985049592</updated>
+      <workItem from="1587574758618" duration="591000" />
+      <workItem from="1587612914625" duration="9484000" />
+      <workItem from="1587624379648" duration="734000" />
+      <workItem from="1587625154614" duration="1090000" />
+      <workItem from="1587626586506" duration="372000" />
+      <workItem from="1587627079627" duration="390000" />
+      <workItem from="1587627688261" duration="2083000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="193" y="42" key="#Project_Structure" timestamp="1585985057364">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="193" y="42" key="#Project_Structure/0.0.1200.760@0.0.1200.760" timestamp="1585985057364" />
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1587382651823">
+    <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587622179913">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587382651823" />
+    <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1200.760@0.0.1200.760" timestamp="1587622179913" />
+    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1587628220953">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587628220953" />
     <state x="281" y="53" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1586916751859">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -118,22 +178,22 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1159" height="236" key="GridCell.Tab.0.bottom" timestamp="1587393062994">
+    <state width="1157" height="173" key="GridCell.Tab.0.bottom" timestamp="1587575363383">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062994" />
-    <state width="1159" height="236" key="GridCell.Tab.0.center" timestamp="1587393062993">
+    <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
+    <state width="1157" height="173" key="GridCell.Tab.0.center" timestamp="1587575363383">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062993" />
-    <state width="1159" height="236" key="GridCell.Tab.0.left" timestamp="1587393062992">
+    <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
+    <state width="1157" height="173" key="GridCell.Tab.0.left" timestamp="1587575363383">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062992" />
-    <state width="1159" height="236" key="GridCell.Tab.0.right" timestamp="1587393062994">
+    <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
+    <state width="1157" height="173" key="GridCell.Tab.0.right" timestamp="1587575363383">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state width="1159" height="236" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062994" />
+    <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
     <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1587393062997">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -150,18 +210,26 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state x="81" y="0" key="SettingsEditor" timestamp="1587516494272">
+    <state x="69" y="34" key="SettingsEditor" timestamp="1587629176305">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="81" y="0" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587516494272" />
-    <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587472090548">
+    <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
+    <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="294" y="209" key="com.intellij.ide.util.TipDialog/0.0.1200.760@0.0.1200.760" timestamp="1587472090548" />
-    <state x="257" y="171" key="run.anything.popup" timestamp="1586921012842">
+    <state x="294" y="209" key="com.intellij.ide.util.TipDialog/0.0.1200.760@0.0.1200.760" timestamp="1587568283179" />
+    <state x="399" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587620714598">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1586921012842" />
+    <state x="399" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.760@0.0.1200.760" timestamp="1587620714598" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587575359873">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1200.760@0.0.1200.760" timestamp="1587575359873" />
+    <state x="257" y="171" key="run.anything.popup" timestamp="1587617260914">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1587380529964">
       <screen x="0" y="0" width="1200" height="760" />
     </state>

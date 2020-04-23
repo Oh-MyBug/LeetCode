@@ -1,9 +1,6 @@
 import org.junit.Test;
 
-import javax.print.attribute.standard.NumberUp;
 import java.util.HashMap;
-import java.util.Hashtable;
-import java.util.Objects;
 
 /**
  * ClassName: Solution_1

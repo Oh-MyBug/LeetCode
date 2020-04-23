@@ -1,9 +1,6 @@
 import org.junit.Test;
 
-import javax.print.attribute.standard.NumberUp;
 import java.util.HashMap;
-import java.util.Hashtable;
-import java.util.Objects;
 
 /**
  * ClassName: Solution_1
@@ -22,6 +19,7 @@ import java.util.Objects;
 所以返回 [0, 1]
  */
 public class Solution_1 {
+
     @Test
     public void test(){
         int[] nums = {3,3};

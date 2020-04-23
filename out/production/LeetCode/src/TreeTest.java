@@ -29,8 +29,8 @@ public class TreeTest {
     }
     public void helper1(TreeNode root){
         if (root == null) return;
-        helper1(root.left);
         System.out.print(root.val + " ");
+        helper1(root.left);
         helper1(root.right);
     }
     @Test
