@@ -33,27 +33,6 @@
          根节点的值为 5 ，但是其右子节点值为 4 。
  */
 public class Solution_98 {
-    public static void main(String[] args) {
-        TreeNode root = new TreeNode(6);
-        TreeNode r1 = new TreeNode(4);
-        TreeNode r2 = new TreeNode(10);
-        TreeNode r3 = new TreeNode(1);
-        TreeNode r4 = new TreeNode(5);
-        TreeNode r5 = new TreeNode(9);
-        TreeNode r6 = new TreeNode(11);
-        TreeNode r7 = new TreeNode(0);
-        TreeNode r8 = new TreeNode(2);
-        root.left = r1;
-        root.right = r2;
-        r1.left = r3;
-        r1.right = r4;
-        r2.left = r5;
-        r2.right = r6;
-        r3.left = r7;
-        r3.right = r8;
-        Solution_98 s = new Solution_98();
-        System.out.println(s.isValidBST(root));
-    }
     boolean isValidBST(TreeNode root) {
         return isValidBST(root, null, null);
     }

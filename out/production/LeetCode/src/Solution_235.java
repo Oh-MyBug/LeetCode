@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-
 /**
  * ClassName: Solution_235
  * Date:      2020/4/20 18:52
@@ -28,26 +25,7 @@ import java.util.HashMap;
     p、q 为不同节点且均存在于给定的二叉搜索树中。
  */
 public class Solution_235 {
-    public static void main(String[] args) {
-        TreeNode root = new TreeNode(6);
-        TreeNode r1 = new TreeNode(2);
-        TreeNode r2 = new TreeNode(8);
-        TreeNode r3 = new TreeNode(0);
-        TreeNode r4 = new TreeNode(4);
-        TreeNode r5 = new TreeNode(7);
-        TreeNode r6 = new TreeNode(9);
-        TreeNode r7 = new TreeNode(3);
-        TreeNode r8 = new TreeNode(5);
-        root.left = r1;
-        root.right = r2;
-        r1.left = r3;
-        r1.right = r4;
-        r4.left = r7;
-        r4.right = r8;
-        r2.left = r5;
-        r2.right = r6;
-        System.out.println(lowestCommonAncestor(root, r1, r2));
-    }
+
     /**
      * @Function 树递归 二叉搜索树性质
      * @author   Oh_MyBug
@@ -58,7 +36,7 @@ public class Solution_235 {
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         return helper(root,p,q);
     }
-    public static TreeNode helper(TreeNode root, TreeNode p,TreeNode q){
+    public static TreeNode helper(TreeNode root, TreeNode p, TreeNode q){
         if((root.val - p.val)*(root.val - q.val) <= 0) return root;
         if (root.val > p.val && root.val > q.val){
             return helper(root.left, p, q);

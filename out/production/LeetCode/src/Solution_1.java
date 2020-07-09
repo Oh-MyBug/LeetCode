@@ -19,7 +19,6 @@ import java.util.HashMap;
 所以返回 [0, 1]
  */
 public class Solution_1 {
-
     @Test
     public void test(){
         int[] nums = {3,3};

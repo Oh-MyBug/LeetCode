@@ -20,15 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_1367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TreeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/TreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_938.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_938.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a4BaZscVwQ5GwZnIyV5jj5Vy9N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,20 +64,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.Solution_1">
-    <configuration name="Solution_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_98" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution_1367">
     <configuration name="Solution_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solution_1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_1367" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1367" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,13 +116,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution_1367" />
         <item itemvalue="JUnit.Solution_1" />
         <item itemvalue="JUnit.Solution_1.test" />
         <item itemvalue="JUnit.TreeTest" />
         <item itemvalue="JUnit.TreeTest.test1" />
-        <item itemvalue="Application.Solution_98" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -134,7 +143,8 @@
       <workItem from="1587625154614" duration="1090000" />
       <workItem from="1587626586506" duration="372000" />
       <workItem from="1587627079627" duration="390000" />
-      <workItem from="1587627688261" duration="2083000" />
+      <workItem from="1587627688261" duration="3136000" />
+      <workItem from="1594287059939" duration="3291000" />
     </task>
     <servers />
   </component>
@@ -162,10 +172,11 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1200.760@0.0.1200.760" timestamp="1587622179913" />
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1587628220953">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594290742148">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587628220953" />
+    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1594290742148" />
     <state x="281" y="53" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1586916751859">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -210,10 +221,11 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state x="69" y="34" key="SettingsEditor" timestamp="1587629176305">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="88" y="37" key="SettingsEditor" timestamp="1594288582654">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
+    <state x="88" y="37" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594288582654" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -230,9 +242,10 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="263" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1587380529964">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594290370682">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1587380529964" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594290370682" />
   </component>
 </project>
