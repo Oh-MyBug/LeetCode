@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Morris.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Morris.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,7 @@
       <workItem from="1587627079627" duration="390000" />
       <workItem from="1587627688261" duration="3136000" />
       <workItem from="1594287059939" duration="8608000" />
-      <workItem from="1594306196200" duration="25941000" />
+      <workItem from="1594306196200" duration="27127000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594395798721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1594400545612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594400545612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,10 +275,10 @@
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
     <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594296145982" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594396448329">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594400546826">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594396448329" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594400546826" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
