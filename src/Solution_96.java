@@ -20,14 +20,20 @@
  */
 public class Solution_96 {
     public static void main(String[] args) {
-//        System.out.println(numTrees(3));
+        System.out.println(Solution_96.numTrees(3));
     }
-    public int numTrees(int n) {
-        // Note: we should use long here instead of int, otherwise overflow
-        long C = 1;
-        for (int i = 0; i < n; ++i) {
-            C = C * 2 * (2 * i + 1) / (i + 2);
+    public static int numTrees(int n) {
+       int[] G = new int[n+1];
+       G[0] = 1;
+       G[1] = 1;
+
+        for (int i = 2; i <= n; i++) {
+            for (int j = 0; j < i; j++) {
+                G[i] += G[j] * G[i-j-1];
+            }
         }
-        return (int) C;
+//       G[2] = G[0] * G[1] + G[1] * G[0];
+//       G[3] = G[0] * G[2] + G[1] * G[1] + G[2] * G[0];
+       return G[n];
     }
 }
