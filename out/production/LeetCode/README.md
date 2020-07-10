@@ -15,6 +15,7 @@ Programming ideas &amp; Code
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |  
 | [94. 二叉树的中序遍历](src/Solution_94.java)              | 0ms--100%      | 37.4 MB--5.79%            | 
+| [95. 不同的二叉搜索树 II](src/Solution_95.java)           | 2 ms--36.98%   | 40.3 MB--14.29%            | 
 | [96. 不同的二叉搜索树](src/Solution_96.java)              | 0ms--100%      | 36.2 MB--7.69%            | 
 | [98. 验证二叉搜索树](src/Solution_98.java)                | 0ms--100%      | 39 MB--47.83%             | 
 | [100. 相同的树](src/Solution_100.java)                   | 0ms--100%      | 37.3 MB--5.55%            | 

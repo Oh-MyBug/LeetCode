@@ -1,5 +1,6 @@
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
+
+import static java.lang.Integer.compare;
 
 /**
  * ClassName:   Solution_99
@@ -48,20 +49,43 @@ import java.util.Set;
   3
  */
 public class Solution_99 {
+    public void swap(TreeNode a, TreeNode b) {
+        int tmp = a.val;
+        a.val = b.val;
+        b.val = tmp;
+    }
+
     public void recoverTree(TreeNode root) {
-        Set<TreeNode> set = new HashSet<>();
+        TreeNode x = null, y = null, pred = null, predecessor = null;
 
-    }
+        while (root != null) {
+            if (root.left != null) {
+                predecessor = root.left;
+                while (predecessor.right != null && predecessor.right != root)
+                    predecessor = predecessor.right;
 
-    public void helper(TreeNode root, TreeNode min, TreeNode max ){
+                if (predecessor.right == null) {
+                    predecessor.right = root;
+                    root = root.left;
+                }else {
+                    if (pred != null && root.val < pred.val) {
+                        y = root;
+                        if (x == null) x = pred;
+                    }
+                    pred = root;
 
-    }
-
-    public void helper(Set<TreeNode> set, TreeNode root){
-        if (root.left != null)
-            helper(set, root.left);
-        set.add(root);
-        if (root.right != null)
-            helper(set, root.right);
+                    predecessor.right = null;
+                    root = root.right;
+                }
+            }else {
+                if (pred != null && root.val < pred.val) {
+                    y = root;
+                    if (x == null) x = pred;
+                }
+                pred = root;
+                root = root.right;
+            }
+        }
+        swap(x, y);
     }
 }
