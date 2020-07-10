@@ -56,34 +56,39 @@ public class Solution_99 {
     }
 
     public void recoverTree(TreeNode root) {
-        TreeNode x = null, y = null, pred = null, predecessor = null;
+        TreeNode x = null, y = null, true_tmp = null, tmp = null;
 
-        while (root != null) {
-            if (root.left != null) {
-                predecessor = root.left;
-                while (predecessor.right != null && predecessor.right != root)
-                    predecessor = predecessor.right;
+        TreeNode cur = root;                // 指定 cur 指针初始指向 root 节点
+        while (cur != null) {               // 循环直到cur指针为NULL
+            if (cur.left != null) {         // 当 cur 指针的左子节点不为 NULL 时
+                // 找到 cur 指针的前序节点
+                tmp = cur.left;
+                while (tmp.right != null && tmp.right != cur)
+                    tmp = tmp.right;
 
-                if (predecessor.right == null) {
-                    predecessor.right = root;
-                    root = root.left;
-                }else {
-                    if (pred != null && root.val < pred.val) {
-                        y = root;
-                        if (x == null) x = pred;
+                if (tmp.right == null) {    // 当前序节点的右节点为 NULL 时
+                    tmp.right = cur;        // 将其指向 cur
+                    cur = cur.left;         // cur 指向 cur 的左节点
+                }else {                     // 当前序节点的右节点不为 NULL时
+                    // 检查是否需要交换
+                    if (true_tmp != null && cur.val < true_tmp.val) {
+                        y = cur;
+                        if (x == null) x = true_tmp;
                     }
-                    pred = root;
+                    true_tmp = cur;
 
-                    predecessor.right = null;
-                    root = root.right;
+                    tmp.right = null;       // 将其置为 NULL
+                    cur = cur.right;        // cur 指向 cur 的右节点
                 }
-            }else {
-                if (pred != null && root.val < pred.val) {
-                    y = root;
-                    if (x == null) x = pred;
+            }else {                         // 当 cur 指针的左子节点为 NULL 时
+                // 检查是否需要交换
+                if (true_tmp != null && cur.val < true_tmp.val) {
+                    y = cur;
+                    if (x == null) x = true_tmp;
                 }
-                pred = root;
-                root = root.right;
+                true_tmp = cur;
+
+                cur = cur.right;            // cur 指针指向 cur 指针的右节点
             }
         }
         swap(x, y);

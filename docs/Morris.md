@@ -139,3 +139,10 @@ Java实现代码:
     <img src = "../images/16.png" width = 70%>
 </div>
 
+### 应用: LeetCode 99. 恢复二叉搜索树
+
+<div>
+    <img src = "../images/17.png" width = 70%>
+    <img src = "../images/18.png" width = 70%>
+    <img src = "../images/code1.png" width = 70%>
+</div>
