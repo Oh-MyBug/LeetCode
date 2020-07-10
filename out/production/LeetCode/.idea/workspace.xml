@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_1367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_95.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_938.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_938.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_96.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +57,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="JUnit.Solution_1367">
+  <component name="RunManager" selected="Application.Solution_96">
+    <configuration name="Solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_96" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -85,6 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_1367.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1367" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,32 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TreeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TreeTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_96" />
+        <item itemvalue="JUnit.Solution_1367.test" />
         <item itemvalue="JUnit.Solution_1367" />
         <item itemvalue="JUnit.Solution_1" />
         <item itemvalue="JUnit.Solution_1.test" />
-        <item itemvalue="JUnit.TreeTest" />
-        <item itemvalue="JUnit.TreeTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +135,17 @@
       <workItem from="1587626586506" duration="372000" />
       <workItem from="1587627079627" duration="390000" />
       <workItem from="1587627688261" duration="3136000" />
-      <workItem from="1594287059939" duration="3291000" />
+      <workItem from="1594287059939" duration="8608000" />
+      <workItem from="1594306196200" duration="2001000" />
     </task>
+    <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
+      <created>1594295714899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594295714899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,15 +163,20 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增 1367. 二叉树中的列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增 1367. 二叉树中的列表" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="193" y="42" key="#Project_Structure" timestamp="1585985057364">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="193" y="42" key="#Project_Structure/0.0.1200.760@0.0.1200.760" timestamp="1585985057364" />
-    <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587622179913">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1200.760@0.0.1200.760" timestamp="1587622179913" />
+    <state x="479" y="150" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.834@0.0.1536.834" timestamp="1594296015636" />
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594290742148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -189,43 +194,55 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1157" height="173" key="GridCell.Tab.0.bottom" timestamp="1587575363383">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1594291833579">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1157" height="173" key="GridCell.Tab.0.center" timestamp="1587575363383">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1594291833579">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1157" height="173" key="GridCell.Tab.0.left" timestamp="1587575363383">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1594291833579">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1157" height="173" key="GridCell.Tab.0.right" timestamp="1587575363383">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1594291833579">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1159" height="236" key="GridCell.Tab.1.bottom" timestamp="1587393062997">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594291699013">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062997" />
-    <state width="1159" height="236" key="GridCell.Tab.1.center" timestamp="1587393062995">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594291699013">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1159" height="236" key="GridCell.Tab.1.left" timestamp="1587393062995">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594291699013">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1159" height="236" key="GridCell.Tab.1.right" timestamp="1587393062996">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594291699013">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state x="88" y="37" key="SettingsEditor" timestamp="1594288582654">
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
+    <state x="462" y="77" key="SettingsEditor" timestamp="1594296145982">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
-    <state x="88" y="37" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594288582654" />
+    <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594296145982" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594295720005">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594295720005" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
