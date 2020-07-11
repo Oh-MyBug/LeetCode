@@ -20,25 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_1160.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_1240.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_143.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_95.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1160.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1240.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_1240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_143.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_1160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_1160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_1240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_1240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +71,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.Solution_6">
     <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListNode" />
       <module name="LeetCode" />
@@ -108,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_99" />
+    <configuration name="Solution_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_6" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_6" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.ListNode" />
         <item itemvalue="Application.Solution_5" />
         <item itemvalue="Application.Solution_3" />
-        <item itemvalue="Application.Solution_99" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +146,7 @@
       <workItem from="1594287059939" duration="8608000" />
       <workItem from="1594306196200" duration="27802000" />
       <workItem from="1594448073795" duration="10011000" />
-      <workItem from="1594462946938" duration="3751000" />
+      <workItem from="1594462946938" duration="9063000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -219,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594462985100</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <created>1594485430592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594485430592</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,26 +275,26 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1594483696387">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1594490003813">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594483696387" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1594483696387">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594490003813" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1594490003813">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594483696387" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1594483696386">
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594490003813" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1594490003813">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594483696386" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1594483696387">
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594490003813" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1594490003813">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594483696387" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594490003813" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -328,10 +320,10 @@
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
     <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594296145982" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594485335723">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594485433599">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594485335723" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594485433599" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -348,11 +340,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594451473578" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1594451379614">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1594485893604">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594451379614" />
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594485893604" />
     <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594450580126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
