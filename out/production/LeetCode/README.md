@@ -5,8 +5,9 @@ Programming ideas &amp; Code
 |:-----|:-----:       |:-----:             |:-----             |
 | [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
-| [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
 | [3. 无重复字符的最长子串](src/Solution_3.java)            | 8 ms--68.33%   | 40.2 MB--5.20%             |        
+| [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
+| [6. Z 字形变换](src/Solution_6.java)                   | 3 ms--99.19%   | 39.9 MB--10.00%             |        
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
