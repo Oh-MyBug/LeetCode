@@ -1,7 +1,3 @@
-import org.junit.Test;
-
-import java.util.List;
-
 /**
  * ClassName: Solution_143
  * Date:      2020/4/12 23:35

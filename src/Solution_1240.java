@@ -5,7 +5,7 @@
  * version:   V1.0
  */
 public class Solution_1240 {
-//    public static void main(String[] args) {
+//    public static void main(java.lang.String[] args) {
 //        System.out.println(tilingRectangle(11, 13));
 //    }
 //    public static int tilingRectangle(int n, int m) {

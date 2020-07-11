@@ -1,9 +1,3 @@
-import java.lang.reflect.Array;
-import java.nio.charset.CharsetEncoder;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-
 /**
  * ClassName:   Solution_5
  * Data:        2020/7/11
