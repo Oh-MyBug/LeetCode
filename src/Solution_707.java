@@ -51,8 +51,8 @@ public class Solution_707 {
 // 带头结点链表
 class MyLinkedList{
     /** Initialize your data structure here. */
-    ListNode head;
-    ListNode next;
+    ListNode<Integer> head;
+    ListNode<Integer>  next;
     public MyLinkedList() {
         head = new ListNode(0);
     }
@@ -60,7 +60,7 @@ class MyLinkedList{
     /** Get the value of the index-th node in the linked list. If the index is invalid, return -1. */
     public int get(int index) {
         if (index < 0) return -1;
-        ListNode p = head;
+        ListNode<Integer>  p = head;
         index ++;
         while ((index--) != 0){
             p = p.next;

@@ -29,12 +29,12 @@ public class Solution_1367 {
         tree.PreOrder(tree.getRoot());
     }
 
-    public static boolean isSubPath(ListNode head, TreeNode root) {
+    public static boolean isSubPath(ListNode<Integer>  head, TreeNode root) {
         if (root == null) return false;
         return helper(head, root) || isSubPath(head, root.left) || isSubPath(head, root.right);
     }
 
-    public static boolean helper(ListNode head, TreeNode root){
+    public static boolean helper(ListNode<Integer>  head, TreeNode root){
         if (head == null) return true;
         if (root == null) return false;
         if (head.val != root.val) return false;

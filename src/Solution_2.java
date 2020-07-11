@@ -21,14 +21,14 @@ import org.junit.Test;
 public class Solution_2 {
     @Test
     public void test(){
-        ListNode list1 = new ListNode(2);
+        ListNode<Integer>  list1 = new ListNode(2);
         list1.add(4);
         list1.add(6);
         list1.add(9);
-        ListNode list2 = new ListNode(5);
+        ListNode<Integer>  list2 = new ListNode(5);
         list2.add(6);
         list2.add(4);
-        ListNode answer = addTwoNumbers(list1, list2);
+        ListNode<Integer>  answer = addTwoNumbers(list1, list2);
         System.out.print(answer.val);
         while (answer.next != null){
             answer = answer.next;
@@ -44,16 +44,16 @@ public class Solution_2 {
      * @param
      * @return
      */
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public ListNode<Integer>  addTwoNumbers(ListNode<Integer>  l1, ListNode<Integer>  l2) {
         if (l1 == null && l2 == null)
             return null;
         if (l1 == null)
             return l2;
         if (l2 == null)
             return l1;
-        ListNode answer = new ListNode((l1.val + l2.val)%10);
+        ListNode<Integer>  answer = new ListNode((l1.val + l2.val)%10);
         int plus = (l1.val + l2.val) - 9 <= 0 ? 0 : 1;
-        ListNode p = answer;
+        ListNode<Integer>  p = answer;
         while(l1.next != null && l2.next != null){
             l1 = l1.next;
             l2 = l2.next;

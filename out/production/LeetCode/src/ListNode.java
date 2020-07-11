@@ -1,7 +1,7 @@
-public class ListNode {
-    int val;
+public class ListNode<T> {
+    T val;
     ListNode next;
-    ListNode(int x) { val = x; }
+    ListNode(T x) { val = x; }
 
     /**
      * 在当前ListNode this尾部添加一个节点，数值为val
@@ -11,7 +11,7 @@ public class ListNode {
      * @param val
      * @return
      */
-    public void add(int val){
+    public void add(T val){
         ListNode temp = this;
         while (temp.next != null){
             temp = temp.next;
@@ -19,8 +19,14 @@ public class ListNode {
         temp.next = new ListNode(val);
     }
 
+    public void add(T[] val){
+        for (T v : val){
+            this.add(v);
+        }
+    }
+
     public static void show(ListNode head){
-        ListNode p = head;
+        ListNode p = head.next;
         while (p!=null){
             System.out.print(p.val + " ");
             p = p.next;

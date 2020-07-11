@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_96.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,29 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Solution_96">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution_3">
+    <configuration name="Solution_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_3" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_95" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_96" />
       <module name="LeetCode" />
@@ -67,20 +88,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution_99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_99" />
       <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_1367" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_1367" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,23 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_3" />
+        <item itemvalue="Application.Solution_99" />
+        <item itemvalue="Application.Solution_95" />
         <item itemvalue="Application.Solution_96" />
         <item itemvalue="JUnit.Solution_1367.test" />
-        <item itemvalue="JUnit.Solution_1367" />
-        <item itemvalue="JUnit.Solution_1" />
-        <item itemvalue="JUnit.Solution_1.test" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,8 @@
       <workItem from="1587627079627" duration="390000" />
       <workItem from="1587627688261" duration="3136000" />
       <workItem from="1594287059939" duration="8608000" />
-      <workItem from="1594306196200" duration="2001000" />
+      <workItem from="1594306196200" duration="27802000" />
+      <workItem from="1594448073795" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -145,7 +146,42 @@
       <option name="project" value="LOCAL" />
       <updated>1594295714899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update 96. 不同的二叉搜索树">
+      <created>1594370484176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594370484176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1594374300378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594374300378</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <created>1594395798721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594395798721</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <created>1594400545612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594400545612</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update">
+      <created>1594402201506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594402201506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +201,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增 1367. 二叉树中的列表" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增 1367. 二叉树中的列表" />
+    <MESSAGE value="Update 96. 不同的二叉搜索树" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="193" y="42" key="#Project_Structure" timestamp="1585985057364">
@@ -177,11 +215,19 @@
     </state>
     <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1200.760@0.0.1200.760" timestamp="1587622179913" />
     <state x="479" y="150" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.834@0.0.1536.834" timestamp="1594296015636" />
+    <state x="514" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594388072635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="514" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1594388072635" />
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594290742148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587628220953" />
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1594290742148" />
+    <state x="418" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594448182945">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="418" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1594448182945" />
     <state x="281" y="53" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1586916751859">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -194,55 +240,55 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1594291833579">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1594291833579">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1594428742102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1594291833579">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594428742102" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1594428742102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1594291833579">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594428742102" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1594428742102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594291833579" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594291699013">
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594428742102" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062997" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594291699013">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594291699013">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594291699013">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594428742103">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594291699013" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
     <state x="462" y="77" key="SettingsEditor" timestamp="1594296145982">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
     <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594296145982" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594295720005">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594402202858">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594295720005" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594402202858" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -255,14 +301,19 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1200.760@0.0.1200.760" timestamp="1587575359873" />
-    <state x="257" y="171" key="run.anything.popup" timestamp="1587617260914">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="470" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1594374641576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594374641576" />
+    <state x="329" y="188" key="run.anything.popup" timestamp="1594380734121">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594290370682">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594380734121" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594388291856">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1587380529964" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594290370682" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594388291856" />
   </component>
 </project>

@@ -16,7 +16,7 @@
  */
 public class Solution_86 {
     public static void main(String[] args) {
-        ListNode list = new ListNode(1);
+        ListNode<Integer>  list = new ListNode(1);
         list.add(4);
         list.add(3);
         list.add(2);
@@ -50,15 +50,15 @@ public class Solution_86 {
      * @param
      * @return
      */
-    public static ListNode partition(ListNode head, int x) {
+    public static ListNode<Integer>  partition(ListNode<Integer>  head, int x) {
         if (head == null) return null;
-        ListNode newList = new ListNode(0);
+        ListNode<Integer>  newList = new ListNode(0);
         newList.next = head;
-        ListNode cur1 = newList;
-        ListNode cur2 = newList;
-        ListNode temp;
+        ListNode<Integer>  cur1 = newList;
+        ListNode<Integer>  cur2 = newList;
+        ListNode<Integer>  temp;
         while (cur2.next != null) {
-            if (cur2.next.val < x) {
+            if ((int)cur2.next.val < x) {
                 temp = cur2.next;
                 cur2.next = temp.next;
                 temp.next = cur1.next;

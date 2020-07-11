@@ -14,20 +14,20 @@
  */
 public class Solution_21 {
     public static void main(String[] args) {
-        ListNode list2 = new ListNode(0);
+        ListNode<Integer>  list2 = new ListNode(0);
         list2.add(1);
         list2.add(2);
         list2.add(4);
-        ListNode list1 = new ListNode(0);
+        ListNode<Integer>  list1 = new ListNode(0);
         list1.add(1);
         list1.add(3);
         list1.add(4);
-        ListNode list = mergeTwoLists(list1,list2);
+        ListNode<Integer>  list = mergeTwoLists(list1,list2);
         ListNode.show(list);
     }
-    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode newlist = new ListNode(0);
-        ListNode p = newlist;
+    public static ListNode<Integer>  mergeTwoLists(ListNode<Integer>  l1, ListNode<Integer>  l2) {
+        ListNode<Integer>  newlist = new ListNode(0);
+        ListNode<Integer>  p = newlist;
         while (l1 != null && l2 != null){
             if (l1.val < l2.val) {
                 p.next = l1;

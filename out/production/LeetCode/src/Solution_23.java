@@ -52,9 +52,9 @@ public class Solution_23 {
         return mergeTwoLists(l1,l2);
     }
 
-    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode newlist = new ListNode(0);
-        ListNode p = newlist;
+    public static ListNode<Integer>  mergeTwoLists(ListNode<Integer>  l1, ListNode<Integer>  l2) {
+        ListNode<Integer>  newlist = new ListNode(0);
+        ListNode<Integer>  p = newlist;
         while (l1 != null && l2 != null){
             if (l1.val < l2.val) {
                 p.next = l1;

@@ -49,41 +49,48 @@ import static java.lang.Integer.compare;
   3
  */
 public class Solution_99 {
-    public static void main(String[] args) {
-        Tree tree = new Tree();
-        tree.generateTree(new Integer[]{68,41,null,-85,null,-73,-49,-98,null,null,null,-124});
-        recoverTree(tree.getRoot());
-
+    public void swap(TreeNode a, TreeNode b) {
+        int tmp = a.val;
+        a.val = b.val;
+        b.val = tmp;
     }
-    public static void recoverTree(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        helper1(list, root);
-        list.sort(new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                if (o1 > o2) return 1;
-                if (o1 < o2) return -1;
-                return 0;
+
+    public void recoverTree(TreeNode root) {
+        TreeNode x = null, y = null, true_tmp = null, tmp = null;
+
+        TreeNode cur = root;                // 指定 cur 指针初始指向 root 节点
+        while (cur != null) {               // 循环直到cur指针为NULL
+            if (cur.left != null) {         // 当 cur 指针的左子节点不为 NULL 时
+                // 找到 cur 指针的前序节点
+                tmp = cur.left;
+                while (tmp.right != null && tmp.right != cur)
+                    tmp = tmp.right;
+
+                if (tmp.right == null) {    // 当前序节点的右节点为 NULL 时
+                    tmp.right = cur;        // 将其指向 cur
+                    cur = cur.left;         // cur 指向 cur 的左节点
+                }else {                     // 当前序节点的右节点不为 NULL时
+                    // 检查是否需要交换
+                    if (true_tmp != null && cur.val < true_tmp.val) {
+                        y = cur;
+                        if (x == null) x = true_tmp;
+                    }
+                    true_tmp = cur;
+
+                    tmp.right = null;       // 将其置为 NULL
+                    cur = cur.right;        // cur 指向 cur 的右节点
+                }
+            }else {                         // 当 cur 指针的左子节点为 NULL 时
+                // 检查是否需要交换
+                if (true_tmp != null && cur.val < true_tmp.val) {
+                    y = cur;
+                    if (x == null) x = true_tmp;
+                }
+                true_tmp = cur;
+
+                cur = cur.right;            // cur 指针指向 cur 指针的右节点
             }
-        });
-        System.out.println(list.toString());
-        helper2(list, root);
-    }
-
-    public static void helper2(List<Integer> list, TreeNode root){
-        if (root.left != null)
-            helper2(list, root.left);
-        root.val = (int)list.toArray()[0];
-        list.remove(list.toArray()[0]);
-        if (root.right != null)
-            helper2(list, root.right);
-    }
-
-    public static void helper1(List<Integer> list, TreeNode root){
-        if (root.left != null)
-            helper1(list, root.left);
-        list.add(root.val);
-        if (root.right != null)
-            helper1(list, root.right);
+        }
+        swap(x, y);
     }
 }
