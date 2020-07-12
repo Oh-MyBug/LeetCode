@@ -9,7 +9,7 @@ Programming ideas &amp; Code
 | [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
 | [6. Z 字形变换](src/Solution_6.java)                   | 3 ms--99.19%   | 39.9 MB--10.00%             |        
 | [7. 整数反转](src/Solution_7.java)                     | 1 ms--100%      | 37 MB--5.33%           |        
-| [8. 字符串转换整数 (atoi)](src/Solution_8.java)         | 3 ms--48.92%      | 39.9 MB--5.77%           |        
+| [8. 字符串转换整数 (atoi)](src/Solution_8.java)         | 2 ms--99.71%      | 39.7 MB--5.77%           |        
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
