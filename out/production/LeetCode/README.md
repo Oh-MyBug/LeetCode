@@ -14,6 +14,7 @@ Programming ideas &amp; Code
 | [11. 盛最多水的容器](src/Solution_11.java)              | 4 ms--70.15%      | 40 MB--30.00%           |        
 | [12. 整数转罗马数字](src/Solution_12.java)              | 5 ms--84.65%      | 39.3 MB--5.55%           |        
 | [13. 罗马数字转整数](src/Solution_13.java)              | 4 ms--99.92%      | 39.4 MB--5.56%           |        
+| [14. 最长公共前缀](src/Solution_14.java)                | 1 ms--82.67%      | 37.6 MB--35.00%           |        
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
