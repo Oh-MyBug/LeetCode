@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +139,7 @@
       <workItem from="1594287059939" duration="8608000" />
       <workItem from="1594306196200" duration="27802000" />
       <workItem from="1594448073795" duration="10011000" />
-      <workItem from="1594462946938" duration="40647000" />
+      <workItem from="1594462946938" duration="43274000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -269,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594714217479</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update Solution_16. 最接近的三数之和">
+      <created>1594721017191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594721017191</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +304,8 @@
     <MESSAGE value="Update Solution_13. 罗马数字转整数" />
     <MESSAGE value="Update Solution_14. 最长公共前缀" />
     <MESSAGE value="Update Solution_15. 三数之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Solution_15. 三数之和" />
+    <MESSAGE value="Update Solution_16. 最接近的三数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Solution_16. 最接近的三数之和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="193" y="42" key="#Project_Structure" timestamp="1585985057364">
@@ -389,10 +395,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594714218845">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594721059090">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594714218845" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594721059090" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
