@@ -21,23 +21,7 @@ import java.util.*;
 
  */
 public class Solution_15 {
-    public static List<List<Integer>> threeSum2(int[] nums) {
-        int len = nums.length;
-        Arrays.sort(nums);
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        List<Integer> temp = new ArrayList<Integer>();
-        for (int i = 0; i < len; i++) {
-            for (int j = i + 1; j < len; j++) {
-                for (int k = j + 1; k < len; k++) {
-                    if (nums[i] + nums[j] + nums[k] == 0){
-
-                    }
-                }
-            }
-        }
-        return res;
-    }
-    public static List<List<Integer>> threeSum1(int[] nums) {
+    public static List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
         List<List<Integer>> ans = new ArrayList<>();
@@ -62,15 +46,46 @@ public class Solution_15 {
                 }
                 // 如果指针重合，随着 b 后续的增加
                 // 就不会有满足 a+b+c=0 并且 b<c 的 c 了，可以退出循环
-                if (second == third) {
+                if (second == third)
                     break;
-                }
                 if (nums[second] + nums[third] == target) {
                     List<Integer> list = new ArrayList<>();
                     list.add(nums[first]);
                     list.add(nums[second]);
                     list.add(nums[third]);
                     ans.add(list);
+                }
+            }
+        }
+        return ans;
+    }
+
+    public static List<List<Integer>> threeSum1(int[] nums) {
+        int n = nums.length;
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        // 枚举 a
+        for (int i = 0; i < n; ++i) {
+            // 需要和上一次枚举的数不相同
+            if (i > 0 && nums[i] == nums[i - 1])    continue;
+            int j = i + 1;
+            int k = n - 1;
+            while (j < k){
+                if (nums[i] + nums[j] + nums[k] == 0){
+                    List<Integer> list = new ArrayList<>();
+                    list.add(nums[i]);
+                    list.add(nums[j]);
+                    list.add(nums[k]);
+                    ans.add(list);
+                }
+                if (nums[i] + nums[j] + nums[k] > 0){
+                    -- k;
+                    while (j < k && nums[k] == nums[k+1])
+                        -- k;
+                }else {
+                    ++ j;
+                    while (j < k && nums[j] == nums[j-1])
+                        ++j;
                 }
             }
         }
