@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,47 +62,50 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ListNode">
-    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListNode" />
+  <component name="RunManager" selected="Application.Solution_20">
+    <configuration name="Solution_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_14" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_3" />
+    <configuration name="Solution_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_15" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_5" />
+    <configuration name="Solution_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_16" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_95" />
+    <configuration name="Solution_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_18" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_99" />
+    <configuration name="Solution_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_20" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListNode" />
-        <item itemvalue="Application.Solution_5" />
-        <item itemvalue="Application.Solution_3" />
-        <item itemvalue="Application.Solution_99" />
-        <item itemvalue="Application.Solution_95" />
+        <item itemvalue="Application.Solution_20" />
+        <item itemvalue="Application.Solution_15" />
+        <item itemvalue="Application.Solution_18" />
+        <item itemvalue="Application.Solution_16" />
+        <item itemvalue="Application.Solution_14" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +144,7 @@
       <workItem from="1594287059939" duration="8608000" />
       <workItem from="1594306196200" duration="27802000" />
       <workItem from="1594448073795" duration="10011000" />
-      <workItem from="1594462946938" duration="1304000" />
+      <workItem from="1594462946938" duration="50077000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -193,7 +202,105 @@
       <option name="project" value="LOCAL" />
       <updated>1594462985100</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <created>1594485430592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594485430592</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update">
+      <created>1594490745747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594490745747</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update">
+      <created>1594493110260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594493110260</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update Solution_8. 字符串转换整数 (atoi)">
+      <created>1594539541732</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594539541732</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update Solution_9. 回文数">
+      <created>1594568123009</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594568123009</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update Solution_11. 盛最多水的容器">
+      <created>1594569443194</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594569443194</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update Solution_12. 整数转罗马数字">
+      <created>1594572237090</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594572237090</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update Solution_13. 罗马数字转整数">
+      <created>1594573831939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594573831939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update Solution_14. 最长公共前缀">
+      <created>1594628661386</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1594628661386</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update Solution_15. 三数之和">
+      <created>1594714217479</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1594714217479</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update Solution_16. 最接近的三数之和">
+      <created>1594721017191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594721017191</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update Solution_17. 电话号码的字母组合">
+      <created>1594723644601</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1594723644601</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update Solution_18. 四数之和">
+      <created>1594726068394</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594726068394</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update Solution_15. 三数之和">
+      <created>1594726514947</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594726514947</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +323,17 @@
     <MESSAGE value="Update 96. 不同的二叉搜索树" />
     <MESSAGE value="Update 3. 无重复字符的最长子串&#10;滑动窗口" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update Solution_8. 字符串转换整数 (atoi)" />
+    <MESSAGE value="Update Solution_9. 回文数" />
+    <MESSAGE value="Update Solution_11. 盛最多水的容器" />
+    <MESSAGE value="Update Solution_12. 整数转罗马数字" />
+    <MESSAGE value="Update Solution_13. 罗马数字转整数" />
+    <MESSAGE value="Update Solution_14. 最长公共前缀" />
+    <MESSAGE value="Update Solution_16. 最接近的三数之和" />
+    <MESSAGE value="Update Solution_17. 电话号码的字母组合" />
+    <MESSAGE value="Update Solution_18. 四数之和" />
+    <MESSAGE value="Update Solution_15. 三数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Solution_15. 三数之和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="193" y="42" key="#Project_Structure" timestamp="1585985057364">
@@ -237,6 +354,10 @@
     </state>
     <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587628220953" />
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1594290742148" />
+    <state x="544" y="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594483802284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="544" y="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1594483802284" />
     <state x="418" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594448182945">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -253,55 +374,59 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1594458093268">
+    <state width="1493" height="292" key="GridCell.Tab.0.bottom" timestamp="1594792185804">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594458093268" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1594458093267">
+    <state width="1493" height="292" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594792185804" />
+    <state width="1493" height="292" key="GridCell.Tab.0.center" timestamp="1594792185804">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594458093267" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1594458093267">
+    <state width="1493" height="292" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594792185804" />
+    <state width="1493" height="292" key="GridCell.Tab.0.left" timestamp="1594792185804">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594458093267" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1594458093268">
+    <state width="1493" height="292" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594792185804" />
+    <state width="1493" height="292" key="GridCell.Tab.0.right" timestamp="1594792185804">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594458093268" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594428742103">
+    <state width="1493" height="292" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594792185804" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594632626006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062997" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594428742103">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594632626006" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594632626006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594428742103">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594632626006" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594632626006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594428742103">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594632626006" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594632626006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594428742103" />
-    <state x="462" y="77" key="SettingsEditor" timestamp="1594296145982">
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594632626006" />
+    <state x="462" y="77" key="SettingsEditor" timestamp="1594720492327">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
-    <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594296145982" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594463008938">
+    <state x="462" y="77" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594720492327" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1594720498242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594463008938" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594726529994">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594726529994" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -314,19 +439,23 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1200.760@0.0.1200.760" timestamp="1587575359873" />
+    <state x="410" y="144" width="700" height="530" key="recent.locations.popup" timestamp="1594720496236">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="410" y="144" width="700" height="530" key="recent.locations.popup/0.0.1536.834@0.0.1536.834" timestamp="1594720496236" />
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1594451473578">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594451473578" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1594451379614">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1594485893604">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594451379614" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594450580126">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594485893604" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594725861286">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1587380529964" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594450580126" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594725861286" />
   </component>
 </project>

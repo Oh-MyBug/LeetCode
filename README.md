@@ -20,6 +20,7 @@ Programming ideas &amp; Code
 | [17. 电话号码的字母组合](src/Solution_17.java)            | 1 ms--89.70%    | 38.6 MB--5.17%          |        
 | [18. 四数之和](src/Solution_18.java)                   | 3 ms--99.99%    | 39.9 MB--13.16%          |        
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
+| [20. 有效的括号](src/Solution_20.java)                  | 1ms--98.61%    | 37.7 MB--5.48%            | 
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
 | [24. 两两交换链表中的节点](src/Solution_24.java)          | 0ms--100%      | 37.3 MB--6.35%            | 
