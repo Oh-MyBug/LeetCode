@@ -22,6 +22,7 @@ Programming ideas &amp; Code
 | [19. 删除链表的倒数第N个节点](src/Solution_19.java)       | 0ms--100%      | 39.5 MB--5.55%            | 
 | [20. 有效的括号](src/Solution_20.java)                  | 1ms--98.61%    | 37.7 MB--5.48%            | 
 | [21. 合并两个有序链表](src/Solution_21.java)              | 1ms--73.37%    | 39.5 MB--54.20%           | 
+| [22. 括号生成](src/Solution_22.java)                   | 1ms--97.18%    | 40 MB--5.26%           | 
 | [23. 合并K个排序链表](src/Solution_23.java)              | 1ms--100%       | 41.5 MB--58.82%           |
 | [24. 两两交换链表中的节点](src/Solution_24.java)          | 0ms--100%      | 37.3 MB--6.35%            | 
 | [25. K 个一组翻转链表](src/Solution_25.java)              | 0ms--100%      | 40 MB--7.32%              | 
