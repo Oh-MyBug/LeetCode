@@ -27,6 +27,7 @@ Programming ideas &amp; Code
 | [24. 两两交换链表中的节点](src/Solution_24.java)          | 0ms--100%      | 37.3 MB--6.35%            | 
 | [25. K 个一组翻转链表](src/Solution_25.java)              | 0ms--100%      | 40 MB--7.32%              | 
 | [26. 删除排序数组中的重复项](src/Solution_26.java)         | 1ms--98.03%      | 41.4 MB--5.74%          | 
+| [27. 移除元素](src/Solution_27.java)                    | 0ms--100%       | 38.4 MB--5.68%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
