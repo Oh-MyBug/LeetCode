@@ -63,4 +63,4 @@ Programming ideas &amp; Code
 
 ### Algorithm
 - [Morris二叉树遍历算法](#docs/Morris.md)
-
+- [KMP字符串匹配算法](#docs/KMP.md)
