@@ -80,17 +80,19 @@ public class Solution_28 {
     public static void main(String[] args) {
         long start, end;
         start = System.currentTimeMillis();
-        for (int i = 0; i < 10000; i++) {
-            KMP("bowiahnvsdqwclqlwcnqowliffqlwfcqwidqowicnqwdnqlwdqwdlqwjdlqwjdllvnlwfnhello", "dlqwjdlqwj");
+        for (int i = 0; i < 10000000; i++) {
+            // 测试KMP算法
+            KMP("111111111111111111111111110", "111111110");
         }
         end = System.currentTimeMillis();
-        System.out.println(end-start);
+        System.out.println("KMP算法耗时: " + (end-start));
 
         start = System.currentTimeMillis();
-        for (int i = 0; i < 10000; i++) {
-            BF("bowiahnvsdqwclqlwcnqowliffqlwfcqwidqowicnqwdnqlwdqwdlqwjdlqwjdllvnlwfnhello", "dlqwjdlqwj");
+        for (int i = 0; i < 10000000; i++) {
+            // 测试BF算法
+            BF("111111111111111111111111110", "111111110");
         }
         end = System.currentTimeMillis();
-        System.out.println(end-start);
+        System.out.println("BF算法耗时: " + (end-start));
     }
 }

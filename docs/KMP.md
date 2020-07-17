@@ -40,7 +40,7 @@
     <img src="../images/KMP/20.png" width=90%>
 </div>
 
-在这过程中，我们可以发现一个很严重的问题，同时也是暴力破解的精髓所在，也就是在第一轮匹配失败过后，needle_cur重新赋值为1的同时haystack_cur也重新赋值为2。
+在这过程中，我们可以发现一个很严重的问题，同时也是暴力破解的精髓所在，也就是在第一轮匹配失败过后，needle_cur重新赋值为1的同时haystack_cur也重新赋值为1。
 
 <div>
     <img src="../images/KMP/10.png" width=70%>
@@ -76,7 +76,6 @@
                                         
 <div>
     <img src="../images/KMP/10.png" width=70%>
-    <img src="../images/KMP/11.png" width=70%>
 </div>
 
 所以为了编程的方便， 我们不直接使用PMT数组，而是将PMT数组向后偏移一位。我们把新得到的这个数组称为**next数组**。其中要注意的一个技巧是，在把PMT进行向右偏移时，第0位的值，我们将其设成了-1，这只是为了编程的方便，并没有其他的意义。next数组如下表所示。
