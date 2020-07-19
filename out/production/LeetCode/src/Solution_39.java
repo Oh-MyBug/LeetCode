@@ -32,7 +32,7 @@ candidates 中的数字可以无限制重复被选取。
 ]
  */
 public class Solution_39 {
-
+    // 回溯
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(candidates);

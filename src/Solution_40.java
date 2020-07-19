@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -33,6 +35,31 @@ candidates 中的每个数字在每个组合中只能使用一次。
  */
 public class Solution_40 {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(candidates);
+        helper(candidates, target, 0, 0, new ArrayList<>(), res);
+        return res;
+    }
 
+    public void helper(int[] candidates, int target, int index, int sum, List<Integer> temp, List<List<Integer>> res){
+        if (sum == target){
+            res.add(new ArrayList<>(temp));
+            return;
+        }
+
+        for (int i = index; i < candidates.length; i++) {
+            if (sum + candidates[i] > target)
+                break;
+            if (i > index && candidates[i] == candidates[i - 1])
+                continue;
+            temp.add(candidates[i]);
+            helper(candidates, target, i + 1, sum + candidates[i], temp, res);
+            temp.remove(temp.size() - 1);
+        }
+    }
+
+    public static void main(String[] args) {
+        Solution_40 solution_40 = new Solution_40();
+        System.out.println(solution_40.combinationSum2(new int[]{10,1,2,7,6,1,5}, 8).toString());
     }
 }
