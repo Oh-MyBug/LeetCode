@@ -35,6 +35,7 @@ Programming ideas &amp; Code
 | [34. 在排序数组中查找元素的第一个和最后一个位置](src/Solution_34.java)   | 0ms--100%        | 42.9 MB--57.89%         | 
 | [35. 搜索插入位置](src/Solution_35.java)                 | 0ms--100%        | 39.3 MB--5.55%         | 
 | [36. 有效的数独](src/Solution_36.java)                 | 2ms--96.06%        | 39.6 MB--100.00%         | 
+| [38. 外观数列](src/Solution_38.java)                    | 0ms--100.00%        | 36.6 MB--5.41%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
