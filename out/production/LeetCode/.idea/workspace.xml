@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/KMP/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/KMP/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/KMP/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/KMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/KMP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_28.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -77,35 +74,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_28">
-    <configuration name="Solution_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_20" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_22" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_26" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_27" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_34">
     <configuration name="Solution_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_28" />
       <module name="LeetCode" />
@@ -113,13 +82,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_29" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_31" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_33" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_34" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_34" />
+        <item itemvalue="Application.Solution_33" />
+        <item itemvalue="Application.Solution_31" />
+        <item itemvalue="Application.Solution_29" />
         <item itemvalue="Application.Solution_28" />
-        <item itemvalue="Application.Solution_27" />
-        <item itemvalue="Application.Solution_26" />
-        <item itemvalue="Application.Solution_22" />
-        <item itemvalue="Application.Solution_20" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,8 @@
       <workItem from="1594306196200" duration="27802000" />
       <workItem from="1594448073795" duration="10011000" />
       <workItem from="1594462946938" duration="64859000" />
-      <workItem from="1594916188071" duration="8347000" />
+      <workItem from="1594916188071" duration="32659000" />
+      <workItem from="1595049001645" duration="2788000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -345,7 +343,49 @@
       <option name="project" value="LOCAL" />
       <updated>1594920494942</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Update">
+      <created>1594936061681</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1594936061681</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update">
+      <created>1594960395850</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1594960395850</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update">
+      <created>1594960453782</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1594960453782</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update">
+      <created>1594966667286</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1594966667286</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update 31. 下一个排列">
+      <created>1594971246757</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1594971246757</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update 33. 搜索旋转排序数组">
+      <created>1594990542287</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1594990542287</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +404,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="新增 1367. 二叉树中的列表" />
     <MESSAGE value="Update 96. 不同的二叉搜索树" />
     <MESSAGE value="Update 3. 无重复字符的最长子串&#10;滑动窗口" />
@@ -382,7 +423,9 @@
     <MESSAGE value="Update Solution_26. 删除排序数组中的重复项" />
     <MESSAGE value="Update Solution_27. 移除元素" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update 31. 下一个排列" />
+    <MESSAGE value="Update 33. 搜索旋转排序数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 33. 搜索旋转排序数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -416,59 +459,59 @@
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594899711468" />
-    <state width="1493" height="292" key="GridCell.Tab.0.bottom" timestamp="1594841448110">
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1594990291482">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="292" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594841448110" />
-    <state width="1493" height="292" key="GridCell.Tab.0.center" timestamp="1594841448110">
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594990291482" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1594990291482">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="292" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594841448110" />
-    <state width="1493" height="292" key="GridCell.Tab.0.left" timestamp="1594841448110">
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594990291482" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1594990291481">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="292" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594841448110" />
-    <state width="1493" height="292" key="GridCell.Tab.0.right" timestamp="1594841448110">
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594990291481" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1594990291482">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="292" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594841448110" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594792220009">
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594990291482" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594989367746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587393062997" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594792220009" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594792220008">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594989367746" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1594989367746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594792220008" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594792220008">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594989367746" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1594989367746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1587393062995" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594792220008" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594792220009">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594989367746" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1594989367746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594792220009" />
-    <state x="462" y="0" key="SettingsEditor" timestamp="1594927694211">
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594989367746" />
+    <state x="273" y="89" key="SettingsEditor" timestamp="1594968299873">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
-    <state x="462" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594927694211" />
+    <state x="273" y="89" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594968299873" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1594720498242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594920496571">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1594990543487">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594920496571" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594990543487" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -495,10 +538,10 @@
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
     <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1594841192219" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594839674941">
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1594975207971">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1587380529964" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594839674941" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594975207971" />
   </component>
 </project>
