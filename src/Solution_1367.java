@@ -1,3 +1,6 @@
+import com.ohmybug.fifty_2.Tree;
+import com.ohmybug.fifty_2.TreeNode;
+import com.ohmybug.fifty_3.ListNode;
 import org.junit.Test;
 
 /*
@@ -34,7 +37,7 @@ public class Solution_1367 {
         return helper(head, root) || isSubPath(head, root.left) || isSubPath(head, root.right);
     }
 
-    public static boolean helper(ListNode<Integer>  head, TreeNode root){
+    public static boolean helper(ListNode<Integer> head, TreeNode root){
         if (head == null) return true;
         if (root == null) return false;
         if (head.val != root.val) return false;

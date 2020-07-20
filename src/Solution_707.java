@@ -1,3 +1,5 @@
+import com.ohmybug.fifty_3.ListNode;
+
 /**
  * ClassName: Solution_707
  * Date:      2020/4/14 20:56

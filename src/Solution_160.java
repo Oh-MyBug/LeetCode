@@ -1,6 +1,4 @@
-import org.junit.Test;
-
-import java.util.List;
+import com.ohmybug.fifty_3.ListNode;
 
 /**
  * ClassName: Solution_160

@@ -1,3 +1,5 @@
+import com.ohmybug.fifty_2.TreeNode;
+
 /**
  * ClassName: Solution_938
  * Date:      2020/4/21 20:32
