@@ -20,69 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_1367.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_1367.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_3/Solution_143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_707.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_707.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_938.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_938.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_43.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,16 +65,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_1" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images\Morris" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\images\Morris" />
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
@@ -207,7 +151,7 @@
       <workItem from="1594462946938" duration="64859000" />
       <workItem from="1594916188071" duration="32659000" />
       <workItem from="1595049001645" duration="26053000" />
-      <workItem from="1595242445414" duration="3000" />
+      <workItem from="1595242445414" duration="221000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -503,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595158120660</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Update">
+      <created>1595242485833</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1595242485833</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,9 +497,9 @@
     <MESSAGE value="Update 35. 搜索插入位置" />
     <MESSAGE value="Update 36. 有效的数独" />
     <MESSAGE value="Update 38. 外观数列" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 40. 组合总和 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 40. 组合总和 II" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -631,10 +582,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595158121816">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595242488066">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595158121816" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595242488066" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>

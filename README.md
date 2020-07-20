@@ -38,6 +38,7 @@ Programming ideas &amp; Code
 | [38. 外观数列](src/Solution_38.java)                    | 0ms--100.00%        | 36.6 MB--5.41%         | 
 | [39. 组合总和](src/Solution_39.java)                    | 3ms--87.90%        | 39.9 MB--11.32%         | 
 | [40. 组合总和 II](src/Solution_40.java)                 | 3ms--88.74%        | 40 MB--32.14%         | 
+| [43. 字符串相乘(src/Solution_43.java)                  | 24ms--24.39%        | 40.2 MB--7.41%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
