@@ -41,6 +41,7 @@ Programming ideas &amp; Code
 | [43. 字符串相乘](src/Solution_43.java)                  | 24ms--24.39%        | 40.2 MB--7.41%         | 
 | [46. 全排列](src/Solution_46.java)                       | 2ms--81.69%        | 39.7 MB--7.32%         | 
 | [47. 全排列 II](src/Solution_47.java)                    | 2ms--76.90%        | 40.5 MB--12.50%         | 
+| [48. 旋转图像](src/Solution_48.java)                    | 0ms--100.00%        | 39.7 MB--7.69%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
