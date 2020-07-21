@@ -44,6 +44,7 @@ Programming ideas &amp; Code
 | [48. 旋转图像](src/Solution_48.java)                    | 0ms--100.00%        | 39.7 MB--7.69%         | 
 | [49. 字母异位词分组](src/Solution_49.java)               | 7ms--99.62%        | 42.7 MB--32.35%         | 
 | [50. Pow(x, n)](src/Solution_50.java)                  | 1ms--94.60%        | 37.2 MB--5.88%         | 
+| [53. 最大子序和](src/Solution_53.java)                  | 1ms--95.17%        | 40 MB--35.95%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
