@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/KMP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ohmybug/other" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -61,28 +63,27 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\other" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_3" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohmybug.fifty_2" />
+      <recent name="com.ohmybug.fifty_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_1" />
       <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
       <recent name="C:\Users\YM\Desktop\LeetCode\images\Morris" />
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_49">
-    <configuration name="Solution_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_1.Solution_36" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_53">
     <configuration name="Solution_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_1.Solution_38" />
       <module name="LeetCode" />
@@ -117,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_2.Solution_53" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohmybug.fifty_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_53" />
         <item itemvalue="Application.Solution_49" />
         <item itemvalue="Application.Solution_40" />
         <item itemvalue="Application.Solution_39" />
         <item itemvalue="Application.Solution_38" />
-        <item itemvalue="Application.Solution_36" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +168,9 @@
       <workItem from="1594916188071" duration="32659000" />
       <workItem from="1595049001645" duration="26053000" />
       <workItem from="1595242445414" duration="1742000" />
-      <workItem from="1595251540662" duration="2167000" />
+      <workItem from="1595251540662" duration="8196000" />
+      <workItem from="1595318542437" duration="599000" />
+      <workItem from="1595326469080" duration="1521000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -485,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595242883933</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Update 49. 字母异位词分组">
+      <created>1595300670969</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1595300670969</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +528,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update Solution_9. 回文数" />
     <MESSAGE value="Update Solution_11. 盛最多水的容器" />
     <MESSAGE value="Update Solution_12. 整数转罗马数字" />
     <MESSAGE value="Update Solution_13. 罗马数字转整数" />
@@ -530,7 +552,8 @@
     <MESSAGE value="Update 46. 全排列" />
     <MESSAGE value="Update 47. 全排列 II" />
     <MESSAGE value="Update 48. 旋转图像" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 48. 旋转图像" />
+    <MESSAGE value="Update 49. 字母异位词分组" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 49. 字母异位词分组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -564,26 +587,26 @@
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594899711468" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595213499284">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595304317182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595213499284" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595213499284">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595304317182" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595304317182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595213499284" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595213499284">
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595304317182" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595304317182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595213499284" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595213499284">
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595304317182" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595304317182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595213499284" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595304317182" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1595156790378">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -604,19 +627,19 @@
     </state>
     <state width="1159" height="236" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1587393062996" />
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1595156790378" />
-    <state x="273" y="89" key="SettingsEditor" timestamp="1594968299873">
+    <state x="273" y="89" key="SettingsEditor" timestamp="1595316473735">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
-    <state x="273" y="89" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594968299873" />
+    <state x="273" y="89" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595316473735" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1594720498242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595242886251">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595300672340">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595242886251" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595300672340" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>

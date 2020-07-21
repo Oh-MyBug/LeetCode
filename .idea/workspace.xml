@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_1/Solution_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_53.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +170,7 @@
       <workItem from="1595242445414" duration="1742000" />
       <workItem from="1595251540662" duration="8196000" />
       <workItem from="1595318542437" duration="599000" />
-      <workItem from="1595326469080" duration="2104000" />
+      <workItem from="1595326469080" duration="2176000" />
     </task>
     <task id="LOCAL-00001" summary="新增 1367. 二叉树中的列表">
       <created>1594295714899</created>
@@ -508,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595300670969</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Update 53. 最大子序和">
+      <created>1595341383355</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1595341383355</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +535,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update Solution_11. 盛最多水的容器" />
     <MESSAGE value="Update Solution_12. 整数转罗马数字" />
     <MESSAGE value="Update Solution_13. 罗马数字转整数" />
     <MESSAGE value="Update Solution_14. 最长公共前缀" />
@@ -553,7 +559,8 @@
     <MESSAGE value="Update 47. 全排列 II" />
     <MESSAGE value="Update 48. 旋转图像" />
     <MESSAGE value="Update 49. 字母异位词分组" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 49. 字母异位词分组" />
+    <MESSAGE value="Update 53. 最大子序和" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 53. 最大子序和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -636,10 +643,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595300672340">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595341384534">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595300672340" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595341384534" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
