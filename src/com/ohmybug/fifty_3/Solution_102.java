@@ -1,7 +1,5 @@
 package com.ohmybug.fifty_3;
 
-import com.ohmybug.fifty_2.TreeNode;
-
 import java.util.ArrayList;
 import java.util.List;
 

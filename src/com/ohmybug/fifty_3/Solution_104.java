@@ -1,7 +1,5 @@
 package com.ohmybug.fifty_3;
 
-import com.ohmybug.fifty_2.TreeNode;
-
 /**
  * ClassName: com.ohmybug.fifty_3.Solution_104
  * Date:      2020/4/18 23:52

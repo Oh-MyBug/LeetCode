@@ -1,5 +1,6 @@
 package com.ohmybug.fifty_1;
 
+
 /**
  * ClassName: com.ohmybug.firstTofifty.Solution_19
  * Date:      2020/4/14 21:56
