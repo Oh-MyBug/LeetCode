@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohmybug/fifty_2/Solution_62.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,20 +83,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_56">
-    <configuration name="Solution_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_1.Solution_49" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ohmybug.fifty_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_62">
     <configuration name="Solution_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_2.Solution_53" />
       <module name="LeetCode" />
@@ -148,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohmybug.fifty_2.Solution_62" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohmybug.fifty_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_62" />
         <item itemvalue="Application.Solution_56" />
         <item itemvalue="Application.Solution_55" />
         <item itemvalue="Application.Solution_54" />
         <item itemvalue="Application.Solution_53" />
-        <item itemvalue="Application.Solution_49" />
       </list>
     </recent_temporary>
   </component>
@@ -187,14 +188,7 @@
       <workItem from="1595242445414" duration="1742000" />
       <workItem from="1595251540662" duration="8196000" />
       <workItem from="1595318542437" duration="599000" />
-      <workItem from="1595326469080" duration="14156000" />
-    </task>
-    <task id="LOCAL-00005" summary="Update">
-      <created>1594400545612</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1594400545612</updated>
+      <workItem from="1595326469080" duration="21085000" />
     </task>
     <task id="LOCAL-00006" summary="Update">
       <created>1594402201506</created>
@@ -532,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595476614982</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Update 56. 合并区间">
+      <created>1595479794290</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1595479794290</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +553,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update Solution_14. 最长公共前缀" />
     <MESSAGE value="Update Solution_16. 最接近的三数之和" />
     <MESSAGE value="Update Solution_17. 电话号码的字母组合" />
     <MESSAGE value="Update Solution_18. 四数之和" />
@@ -577,7 +577,8 @@
     <MESSAGE value="Update 53. 最大子序和" />
     <MESSAGE value="Update 54. 螺旋矩阵" />
     <MESSAGE value="Update 55. 跳跃游戏" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 55. 跳跃游戏" />
+    <MESSAGE value="Update 56. 合并区间" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 56. 合并区间" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -611,26 +612,26 @@
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594899711468" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595479610807">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595525872542">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595479610807" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595479610807">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595525872542" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595525872542">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595479610807" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595479610807">
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595525872542" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595525872542">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595479610807" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595479610807">
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595525872542" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595525872542">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595479610807" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595525872542" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1595478683167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -660,10 +661,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595476617655">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595479797139">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595476617655" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595479797139" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
@@ -685,15 +686,15 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594451473578" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1595478875629">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1595526198977">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1595478875629" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1595475900296">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1595526198977" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1595525915173">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1587380529964" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595475900296" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595525915173" />
   </component>
 </project>
