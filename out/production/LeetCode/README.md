@@ -46,6 +46,7 @@ Programming ideas &amp; Code
 | [50. Pow(x, n)](src/Solution_50.java)                  | 1ms--94.60%        | 37.2 MB--5.88%         | 
 | [53. 最大子序和](src/Solution_53.java)                  | 1ms--95.17%        | 40 MB--35.95%         | 
 | [54. 螺旋矩阵](src/Solution_54.java)                  | 0ms--100.00%        | 37.4 MB--8.72%         | 
+| [55. 跳跃游戏](src/Solution_55.java)                  | 2ms--77.44%        | 41.6 MB--12.50%         | 
 | [61. 旋转链表](src/Solution_61.java)                     |                |                           | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
