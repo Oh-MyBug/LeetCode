@@ -50,7 +50,10 @@ Programming ideas &amp; Code
 | [56. 合并区间](src/Solution_56.java)                    | 2ms--97.42%        | 41.7 MB--46.57%         | 
 | [61. 旋转链表](src/Solution_61.java)                    |0 ms--100.00%      |  39.5 MB--5.41%          | 
 | [62. 不同路径](src/Solution_62.java)                    |0 ms--100.00%      |  36.5 MB--6.35%         | 
-| [63. 不同路径 II](src/Solution_63.java)                    |0 ms--100.00%      |  37.8 MB--70.37%         | 
+| [63. 不同路径 II](src/Solution_63.java)                 |0 ms--100.00%      |  37.8 MB--70.37%         | 
+| [64. 最小路径和](src/Solution_64.java)                  |2 ms--98.21%      |  42.3 MB--34.85%         | 
+| [66. 加一](src/Solution_66.java)                       |0 ms--100.00%      |  38.3 MB--5.63%         | 
+| [67. 二进制求和](src/Solution_67.java)                  |2 ms--98.60%      |  38.4 MB--7.69%         | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |  
