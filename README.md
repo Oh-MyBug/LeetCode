@@ -3,7 +3,7 @@ Programming ideas &amp; Code
 ### List of solved problems
 | Title | Running Time | Memory Consumption | Note|
 |:-----|:-----:       |:-----:             |:-----             |
-| [1. 两数之和](src/Solution_1.java)                       |                |                           |            
+| [1. 两数之和](src//Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
 | [3. 无重复字符的最长子串](src/Solution_3.java)            | 8 ms--68.33%   | 40.2 MB--5.20%             |        
 | [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
