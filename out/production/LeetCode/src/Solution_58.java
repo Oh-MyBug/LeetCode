@@ -14,7 +14,6 @@
 输出: 5
  */
 public class Solution_58 {
-    // 大量使用API
     public int lengthOfLastWord(String s) {
         int end = s.length() - 1;
         while (end >= 0 && s.charAt(end) == ' ') end --;

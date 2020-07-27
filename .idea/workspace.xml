@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_59.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/PPT/PPT.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/PPT/PPT.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_58.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_58.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_58.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_58.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_58">
+  <component name="RunManager" selected="Application.Solution_59">
     <configuration name="Solution_143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_143" />
       <module name="LeetCode" />
@@ -104,22 +106,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_62" />
+    <configuration name="Solution_59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_59" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_69" />
+    <configuration name="Solution_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_62" />
       <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_59" />
         <item itemvalue="Application.Solution_58" />
         <item itemvalue="Application.Solution_62" />
         <item itemvalue="Application.Solution_70" />
         <item itemvalue="Application.Solution_143" />
-        <item itemvalue="Application.Solution_69" />
       </list>
     </recent_temporary>
   </component>
@@ -177,21 +173,7 @@
       <workItem from="1595251540662" duration="8196000" />
       <workItem from="1595318542437" duration="599000" />
       <workItem from="1595326469080" duration="25513000" />
-      <workItem from="1595572387142" duration="37132000" />
-    </task>
-    <task id="LOCAL-00017" summary="Update Solution_14. 最长公共前缀">
-      <created>1594628661386</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1594628661386</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Update Solution_15. 三数之和">
-      <created>1594714217479</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1594714217479</updated>
+      <workItem from="1595572387142" duration="40069000" />
     </task>
     <task id="LOCAL-00019" summary="Update Solution_16. 最接近的三数之和">
       <created>1594721017191</created>
@@ -522,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595737875920</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Update 58. 最后一个单词的长度">
+      <created>1595740597156</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1595740597156</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Update 58. 最后一个单词的长度">
+      <created>1595740614925</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1595740614925</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +538,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 33. 搜索旋转排序数组" />
     <MESSAGE value="Update 34. 在排序数组中查找元素的第一个和最后一个位置" />
     <MESSAGE value="Update 35. 搜索插入位置" />
     <MESSAGE value="Update 36. 有效的数独" />
@@ -567,7 +562,8 @@
     <MESSAGE value="Update 70. 爬楼梯" />
     <MESSAGE value="Update" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Update 58. 最后一个单词的长度" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 58. 最后一个单词的长度" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -605,26 +601,26 @@
     </state>
     <state x="252" y="125" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1587351131260" />
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594899711468" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595740502435">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1595848090862">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595740502435" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595740502434">
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595848090862" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1595848090862">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595740502434" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595740502434">
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595848090862" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1595848090861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595740502434" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595740502435">
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595848090861" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1595848090862">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1157" height="173" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1587575363383" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595740502435" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595848090862" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1595698771332">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -654,10 +650,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595737877139">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595740616051">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595737877139" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595740616051" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
