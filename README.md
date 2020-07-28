@@ -50,7 +50,7 @@ Programming ideas &amp; Code
 | [56. 合并区间](src/Solution_56.java)                    | 2ms--97.42%        | 41.7 MB--46.57%         | 
 | [58. 最后一个单词的长度](src/Solution_58.java)            | 0ms--100.00%       | 37.7 MB--6.38%         | 
 | [59. 螺旋矩阵 II](src/Solution_59.java)                 | 0ms--100.00%       | 37.3 MB--7.14%         | 
-| [60. 第k个排列](src/Solution_60.java)                   | 2ms--85.89%       | 37.4 MB--9.68%         | 
+| [60. 第k个排列](src/Solution_60.java)                   | 2ms--85.89%       | 37.4 MB--9.68%         |  不明白官方题解
 | [61. 旋转链表](src/Solution_61.java)                    |0 ms--100.00%      |  39.5 MB--5.41%          | 
 | [62. 不同路径](src/Solution_62.java)                    |0 ms--100.00%      |  36.5 MB--6.35%         | 
 | [63. 不同路径 II](src/Solution_63.java)                 |0 ms--100.00%      |  37.8 MB--70.37%         | 

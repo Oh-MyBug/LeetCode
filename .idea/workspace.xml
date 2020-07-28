@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_60.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,14 +168,7 @@
       <workItem from="1595251540662" duration="8196000" />
       <workItem from="1595318542437" duration="599000" />
       <workItem from="1595326469080" duration="25513000" />
-      <workItem from="1595572387142" duration="44838000" />
-    </task>
-    <task id="LOCAL-00020" summary="Update Solution_17. 电话号码的字母组合">
-      <created>1594723644601</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1594723644601</updated>
+      <workItem from="1595572387142" duration="44886000" />
     </task>
     <task id="LOCAL-00021" summary="Update Solution_18. 四数之和">
       <created>1594726068394</created>
@@ -515,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595848474370</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Update 60. 第k个排列">
+      <created>1595936869875</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1595936869875</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +533,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 34. 在排序数组中查找元素的第一个和最后一个位置" />
     <MESSAGE value="Update 35. 搜索插入位置" />
     <MESSAGE value="Update 36. 有效的数独" />
     <MESSAGE value="Update 38. 外观数列" />
@@ -560,7 +557,8 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Update 58. 最后一个单词的长度" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update 60. 第k个排列" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 60. 第k个排列" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -647,10 +645,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595848475722">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595936872059">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595848475722" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595936872059" />
     <state x="294" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1587568283179">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
