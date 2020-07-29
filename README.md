@@ -62,6 +62,7 @@ Programming ideas &amp; Code
 | [71. 简化路径](src/Solution_71.java)                    |4 ms--96.77%      |  39.7 MB--9.52%         | 
 | [73. 矩阵置零](src/Solution_73.java)                    |1 ms--100.00%      |  41.3 MB--100.00%         | 
 | [74. 搜索二维矩阵](src/Solution_74.java)                |0 ms--100.00%      |  39.6 MB--94.29%         | 
+| [75. 颜色分类](src/Solution_75.java)                    |0 ms--100.00%      |  38.3 MB--6.67%         | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)    | 1ms--94.76%       | 39.3 MB--6.67%           |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)       | 1ms--85.60%       | 39.4 MB--5.97%           |
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |  
