@@ -60,6 +60,7 @@ Programming ideas &amp; Code
 | [69. x 的平方根](src/Solution_69.java)                  |2 ms--57.36%      |  36.3 MB--5.55%         | 
 | [70. 爬楼梯](src/Solution_70.java)                     |0 ms--100.00%      |  36.5 MB--5.66%         | 
 | [71. 简化路径](src/Solution_71.java)                    |4 ms--96.77%      |  39.7 MB--9.52%         | 
+| [73. 矩阵置零](src/Solution_73.java)                    |1 ms--100.00%      |  41.3 MB--100.00%         | 
 | [82. 删除排序链表中的重复元素 II](src/Solution_82.java)    | 1ms--94.76%       | 39.3 MB--6.67%           |
 | [83. 删除排序链表中的重复元素](src/Solution_83.java)       | 1ms--85.60%       | 39.4 MB--5.97%           |
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |  
