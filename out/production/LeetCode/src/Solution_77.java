@@ -26,10 +26,9 @@ public class Solution_77 {
             res.add(new ArrayList<>(temp));
             return;
         }
-        // 剪枝 ① index + 1（不重复） ② 剩下的要够组合成k个数
+        // 剪枝 ① index + 1（不重复） ② n - (k - temp.size() - 1) （剩下的要够组合成k个数）
         for (int i = index + 1; i <= n; i++) {
-            // n - i + 1 --> 还剩这么多数   k - temp.size() --> 还需要这么多数
-            if (n - i + 1 < k - temp.size())
+            if (n - i < k - temp.size() - 1)
                 break;
             temp.add(i);
             helper(n, k, i, res, temp);
