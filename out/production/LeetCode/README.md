@@ -59,8 +59,10 @@ Programming ideas &amp; Code
 | [67. 二进制求和](src/Solution_67.java)                  |2 ms--98.60%      |  38.4 MB--7.69%         | 
 | [69. x 的平方根](src/Solution_69.java)                  |2 ms--57.36%      |  36.3 MB--5.55%         | 
 | [70. 爬楼梯](src/Solution_70.java)                     |0 ms--100.00%      |  36.5 MB--5.66%         | 
-| [82. 删除排序链表中的重复元素 II](src/Solution_82.java)   | 1ms--94.76%     | 39.3 MB--6.67%            |
-| [83. 删除排序链表中的重复元素](src/Solution_83.java)      | 1ms--85.60%     | 39.4 MB--5.97%            |
+| [71. 简化路径](src/Solution_71.java)                    |4 ms--96.77%      |  39.7 MB--9.52%         | 
+| [73. 矩阵置零](src/Solution_73.java)                    |1 ms--100.00%      |  41.3 MB--100.00%         | 
+| [82. 删除排序链表中的重复元素 II](src/Solution_82.java)    | 1ms--94.76%       | 39.3 MB--6.67%           |
+| [83. 删除排序链表中的重复元素](src/Solution_83.java)       | 1ms--85.60%       | 39.4 MB--5.97%           |
 | [86. 分隔链表](src/Solution_86.java)                     | 0ms--100%      | 38.0 MB--5.43%            |  
 | [94. 二叉树的中序遍历](src/Solution_94.java)              | 0ms--100%      | 37.4 MB--5.79%            | 
 | [95. 不同的二叉搜索树 II](src/Solution_95.java)           | 2 ms--36.98%   | 40.3 MB--14.29%            | 
