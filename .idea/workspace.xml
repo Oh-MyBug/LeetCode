@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_92.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,14 +166,7 @@
       <workItem from="1595326469080" duration="25513000" />
       <workItem from="1595572387142" duration="47861000" />
       <workItem from="1595962906635" duration="27294000" />
-      <workItem from="1596253331925" duration="1105000" />
-    </task>
-    <task id="LOCAL-00036" summary="Update 35. 搜索插入位置">
-      <created>1595126232125</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1595126232125</updated>
+      <workItem from="1596253331925" duration="3020000" />
     </task>
     <task id="LOCAL-00037" summary="Update 36. 有效的数独">
       <created>1595134246306</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596176719833</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Update 91. 解码方法">
+      <created>1596254447313</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1596254447314</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +531,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 55. 跳跃游戏" />
     <MESSAGE value="Update 56. 合并区间" />
     <MESSAGE value="Update 61. 旋转链表" />
     <MESSAGE value="Update 62. 不同路径" />
@@ -556,7 +555,8 @@
     <MESSAGE value="Update 81. 搜索旋转排序数组 II" />
     <MESSAGE value="Update 88. 合并两个有序数组" />
     <MESSAGE value="Update 90. 子集 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 90. 子集 II" />
+    <MESSAGE value="Update 91. 解码方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 91. 解码方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -638,10 +638,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1596176720934">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1596254448991">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596176720934" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596254448991" />
     <state x="399" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587620714598">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
