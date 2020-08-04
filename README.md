@@ -3,7 +3,7 @@ Programming ideas &amp; Code
 ### List of solved problems
 | Title | Running Time | Memory Consumption | Note|
 |:-----|:-----:       |:-----:             |:-----             |
-| [1. 两数之和](src//Solution_1.java)                       |                |                           |            
+| [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
 | [3. 无重复字符的最长子串](src/Solution_3.java)            | 8 ms--68.33%   | 40.2 MB--5.20%             |        
 | [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
@@ -86,6 +86,8 @@ Programming ideas &amp; Code
 | [102. 二叉树的层序遍历](src/Solution_102.java)            | 1ms--92.90%    | 40.1MB--5.71%             |    
 | [103. 二叉树的锯齿形层次遍历](src/Solution_103.java)       | 1ms--98.00%    | 38.5MB--81.42%             |    
 | [104. 二叉树的最大深度](src/Solution_104.java)            | 0ms--100%      | 40.1MB--5.75%             |    
+| [105. 从前序与中序遍历序列构造二叉树](src/Solution_105.java) | 3ms--76.76%      | 40MB--80.06%             |    
+| [106. 从中序与后序遍历序列构造二叉树](src/Solution_106.java) | 2ms--97.66%      | 40.4MB--18.42%             |    
 | [107. 二叉树的层次遍历 II](src/Solution_107.java)         | 1ms--99.64%    | 39.8MB--7.41%             |    
 | [112. 路径总和](src/Solution_112.java)                   | 0ms--100%      | 39.7MB--6.52%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
