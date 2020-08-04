@@ -21,4 +21,30 @@ struct Node {
 解释：给定二叉树如图 A 所示，你的函数应该填充它的每个 next 指针，以指向其下一个右侧节点，如图 B 所示。
  */
 public class Solution_116 {
+    public Node connect(Node root) {
+        if (root == null) return null;
+        root.next = null;
+        helper(root);
+        return root;
+    }
+
+    public void helper(Node root){
+        if (root.left != null && root.right != null){
+            root.left.next = root.right;
+            System.out.println("left = " + root.left.val
+                    + " right = " + root.right.val
+                    + " root.next = " + (root.next == null ? "无" : root.next.val));
+            if (root.next != null)
+                root.right.next = root.next.left;
+            helper(root.left);
+            helper(root.right);
+        }
+    }
+
+    static class Node{
+        int val;
+        Node left;
+        Node right;
+        Node next;
+    }
 }
