@@ -95,6 +95,7 @@ Programming ideas &amp; Code
 | [111. 二叉树的最小深度](src/Solution_111.java)            | 0ms--100.00%   | 39.9--42.79%             |    
 | [112. 路径总和](src/Solution_112.java)                   | 0ms--100.00%   | 39.7MB--6.52%             |  
 | [113. 路径总和 II](src/Solution_113.java)                | 1ms--100.00%   | 40.3MB--34.87%             |  
+| [114. 二叉树展开为链表](src/Solution_114.java)             | 1ms--33.52%   | 39.5MB--56.82%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
