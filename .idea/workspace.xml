@@ -22,10 +22,7 @@
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_111.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_111.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_111.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_121">
+  <component name="RunManager" selected="Application.Solution_125">
     <configuration name="Solution_121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_121" />
       <module name="LeetCode" />
@@ -98,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_88" />
+    <configuration name="Solution_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_125" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_125" />
         <item itemvalue="Application.Solution_121" />
         <item itemvalue="Application.Solution_93" />
         <item itemvalue="Application.Solution_91" />
         <item itemvalue="Application.Solution_90" />
-        <item itemvalue="Application.Solution_88" />
       </list>
     </recent_temporary>
   </component>
@@ -175,35 +172,7 @@
       <workItem from="1596431284992" duration="22141000" />
       <workItem from="1596704146020" duration="822000" />
       <workItem from="1596713623413" duration="1293000" />
-      <workItem from="1597244357908" duration="5976000" />
-    </task>
-    <task id="LOCAL-00069" summary="Update 60. 第k个排列">
-      <created>1595936869875</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1595936869875</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Update 60. 第k个排列">
-      <created>1595936913069</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1595936913069</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Update 71. 简化路径">
-      <created>1595938377653</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1595938377653</updated>
-    </task>
-    <task id="LOCAL-00072" summary="Update 73. 矩阵置零">
-      <created>1596030473730</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1596030473731</updated>
+      <workItem from="1597244357908" duration="8811000" />
     </task>
     <task id="LOCAL-00073" summary="Update 74. 搜索二维矩阵">
       <created>1596033651419</created>
@@ -520,7 +489,35 @@
       <option name="project" value="LOCAL" />
       <updated>1597252030707</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Update">
+      <created>1597252065843</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1597252065843</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Update 122. 买卖股票的最佳时机 II">
+      <created>1597253175897</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1597253175897</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Update README.md">
+      <created>1597253187918</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1597253187918</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Update 125. 验证回文串">
+      <created>1597254873356</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1597254873356</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,8 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 78. 子集" />
-    <MESSAGE value="Update 79. 单词搜索" />
     <MESSAGE value="Update 80. 删除排序数组中的重复项 II" />
     <MESSAGE value="Update 81. 搜索旋转排序数组 II" />
     <MESSAGE value="Update 88. 合并两个有序数组" />
@@ -559,13 +554,15 @@
     <MESSAGE value="Update 114. 二叉树展开为链表" />
     <MESSAGE value="Update 116. 填充每个节点的下一个右侧节点指针" />
     <MESSAGE value="Update 117. 填充每个节点的下一个右侧节点指针 II" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update  118. 杨辉三角" />
     <MESSAGE value="Update 119. 杨辉三角 II" />
     <MESSAGE value="Update 120. 三角形最小路径和" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Update 121. 买卖股票的最佳时机" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 121. 买卖股票的最佳时机" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update 122. 买卖股票的最佳时机 II" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update 125. 验证回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 125. 验证回文串" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -604,38 +601,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596702171239" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1597251126934">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom" timestamp="1597254605348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597251126934" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1597251126933">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597254605348" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center" timestamp="1597254605348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597251126933" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1597251126933">
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597254605348" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left" timestamp="1597254605348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597251126933" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1597251126934">
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597254605348" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right" timestamp="1597254605348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597251126934" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597251127059">
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597254605348" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597253733050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597251127059" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597251127059">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597253733050" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597253733049">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597251127059" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597251127059">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597253733049" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597253733049">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597251127059" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597251127059">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597253733049" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597253733050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597251127059" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597253733050" />
     <state x="170" y="76" width="1274" height="711" key="SettingsEditor" timestamp="1596713690317">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -644,10 +641,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597245869217">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597253189986">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597245869217" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597253189986" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1596566285614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
