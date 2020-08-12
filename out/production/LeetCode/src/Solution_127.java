@@ -1,5 +1,7 @@
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 /**
  * ClassName:   Solution_127
@@ -39,36 +41,63 @@ public class Solution_127 {
     private int min = Integer.MAX_VALUE;
 
     public static void main(String[] args) {
-        System.out.println(new Solution_127().ladderLength("qa", "sq", Arrays.asList("si","go","se","cm","so","ph","mt","db","mb","sb","kr","ln","tm","le","av","sm","ar","ci","ca","br","ti","ba","to","ra","fa","yo","ow","sn","ya","cr","po","fe","ho","ma","re","or","rn","au","ur","rh","sr","tc","lt","lo","as","fr","nb","yb","if","pb","ge","th","pm","rb","sh","co","ga","li","ha","hz","no","bi","di","hi","qa","pi","os","uh","wm","an","me","mo","na","la","st","er","sc","ne","mn","mi","am","ex","pt","io","be","fm","ta","tb","ni","mr","pa","he","lr","sq","ye")));
+        System.out.println(new Solution_127().ladderLength("qa", "sq", Arrays.asList("si", "go", "se", "cm", "so",
+                "ph", "mt", "db", "mb", "sb", "kr", "ln", "tm", "le", "av", "sm", "ar", "ci", "ca", "br", "ti", "ba",
+                "to", "ra", "fa", "yo", "ow", "sn", "ya", "cr", "po", "fe", "ho", "ma", "re", "or", "rn", "au", "ur",
+                "rh", "sr", "tc", "lt", "lo", "as", "fr", "nb", "yb", "if", "pb", "ge", "th", "pm", "rb", "sh", "co",
+                "ga", "li", "ha", "hz", "no", "bi", "di", "hi", "qa", "pi", "os", "uh", "wm", "an", "me", "mo", "na",
+                "la", "st", "er", "sc", "ne", "mn", "mi", "am", "ex", "pt", "io", "be", "fm", "ta", "tb", "ni", "mr",
+                "pa", "he", "lr", "sq", "ye")));
     }
 
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        min = wordList.size();
+    // 不能用深度优先遍历 要用广度优先遍历
+    /*public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        min = wordList.size() + 1;
         helper(beginWord, endWord, wordList.toArray(new String[wordList.size()]), 1);
-        return min == wordList.size() ? 0 : min;
+        return min == wordList.size() + 1 ? 0 : min;
     }
 
     public void helper(String curWord, String endWord, String[] wordList, int index) {
         if (curWord.equals(endWord)) {
             min = Math.min(index, min);
-            System.out.println(index);
             return;
         }
-        if (index > min) {
-            System.out.println(index);
-            return;
-        }
+        if (index > min) return;
         int len = wordList.length;
         for (int i = 0; i < len; i++) {
             String word = wordList[i];
-            System.out.println(word);
             if (isDifferentOne(word, curWord)) {
                 wordList[i] = "";
-                System.out.println(index);
                 helper(word, endWord, wordList, index + 1);
                 wordList[i] = word;
             }
         }
+    }*/
+
+    // 广度优先遍历
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Queue<String> queue = new LinkedList<String>();//少不了队列
+        queue.add(beginWord);
+        boolean[] marked = new boolean[wordList.size() + 1];//少不了标记
+        int layer = 1;//注意返回的是层数+1.所以这里直接放1了
+        while (!queue.isEmpty()) {//固定的层数记录形式
+            layer++;
+            int size = queue.size();
+            while (size-- > 0) {
+                String cur = queue.poll();
+                for (int i = 0; i < wordList.size(); i++) {
+                    if (marked[i]) continue;
+                    String dic = wordList.get(i);
+                    if (isDifferentOne(dic, cur)) {
+                        if (dic.equals(endWord)) return layer;
+                        queue.add(dic);
+                        marked[i] = true;
+                    }
+                }
+            }
+        }
+
+        return 0;
     }
 
     public boolean isDifferentOne(String word1, String word2) {

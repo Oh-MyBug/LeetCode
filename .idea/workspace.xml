@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_127.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_125.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_127.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,49 +171,7 @@
       <workItem from="1596431284992" duration="22141000" />
       <workItem from="1596704146020" duration="822000" />
       <workItem from="1596713623413" duration="1293000" />
-      <workItem from="1597244357908" duration="14294000" />
-    </task>
-    <task id="LOCAL-00076" summary="Update 77. 组合">
-      <created>1596037148804</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1596037148804</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Update 77. 组合">
-      <created>1596039150200</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1596039150200</updated>
-    </task>
-    <task id="LOCAL-00078" summary="Update 77. 组合">
-      <created>1596039169633</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1596039169633</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Update 78. 子集">
-      <created>1596039792200</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1596039792200</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Update 79. 单词搜索">
-      <created>1596056137083</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1596056137083</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Update 80. 删除排序数组中的重复项 II">
-      <created>1596057006434</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1596057006434</updated>
+      <workItem from="1597244357908" duration="16498000" />
     </task>
     <task id="LOCAL-00082" summary="Update 81. 搜索旋转排序数组 II">
       <created>1596123212796</created>
@@ -520,7 +474,49 @@
       <option name="project" value="LOCAL" />
       <updated>1597260358224</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Update README.md">
+      <created>1597260389347</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1597260389347</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Update">
+      <created>1597260402712</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1597260402712</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Update 130. 被围绕的区域">
+      <created>1597261990856</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1597261990856</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Update README.md">
+      <created>1597262015386</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1597262015386</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Update README.md">
+      <created>1597262350768</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1597262350768</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Update 127. 单词接龙">
+      <created>1597262358818</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1597262358818</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,8 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 81. 搜索旋转排序数组 II" />
-    <MESSAGE value="Update 88. 合并两个有序数组" />
     <MESSAGE value="Update 90. 子集 II" />
     <MESSAGE value="Update 91. 解码方法" />
     <MESSAGE value="Update 92. 反转链表 II" />
@@ -562,10 +556,12 @@
     <MESSAGE value="Update 121. 买卖股票的最佳时机" />
     <MESSAGE value="Update 122. 买卖股票的最佳时机 II" />
     <MESSAGE value="Update 125. 验证回文串" />
-    <MESSAGE value="Update README.md" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 129. 求根到叶子节点数字之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 129. 求根到叶子节点数字之和" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update 130. 被围绕的区域" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update 127. 单词接龙" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 127. 单词接龙" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -644,10 +640,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597254960187">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597262370063">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597254960187" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597262370063" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1596566285614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -656,6 +652,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="18" width="602" height="798" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1595683210501" />
+    <state x="469" y="204" key="git4idea.merge.GitPullDialog" timestamp="1597262365206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="469" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1597262365206" />
     <state x="560" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596522042750">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
