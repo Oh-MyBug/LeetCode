@@ -103,6 +103,7 @@ Programming ideas &amp; Code
 | [120. 三角形最小路径和](src/Solution_120.java)             | 3ms--73.58%   | 39.8 MB--75.51%             |  
 | [121. 买卖股票的最佳时机](src/Solution_121.java)           | 1ms--98.98%   | 39.6 MB--76.45%             |  
 | [122. 买卖股票的最佳时机 II](src/Solution_122.java)         | 1ms--99.52%   | 39.7 MB--62.88%             |  
+| [125. 验证回文串](src/Solution_125.java)                | 2ms--99.86%   | 39.9 MB--55.15%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
