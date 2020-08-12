@@ -3,7 +3,7 @@ Programming ideas &amp; Code
 ### List of solved problems
 | Title | Running Time | Memory Consumption | Note|
 |:-----|:-----:       |:-----:             |:-----             |
-| [1. 两数之和](src//Solution_1.java)                       |                |                           |            
+| [1. 两数之和](src/Solution_1.java)                       |                |                           |            
 | [2. 两数相加](src/Solution_2.java)                       |                |                           |        
 | [3. 无重复字符的最长子串](src/Solution_3.java)            | 8 ms--68.33%   | 40.2 MB--5.20%             |        
 | [5. 最长回文子串](src/Solution_5.java)                   | 100 ms--44.79% | 42.5 MB--14.28%            |        
@@ -75,6 +75,7 @@ Programming ideas &amp; Code
 | [90. 子集 II](src/Solution_90.java)                    | 1ms--99.98%      | 40 MB--72.14%            |  
 | [91. 解码方法](src/Solution_91.java)                    | 1ms--99.98%      | 37.6 MB--94.21%            |  
 | [92. 反转链表 II](src/Solution_92.java)                 | 0ms--100%      | 37.3 MB--80.46%            |  
+| [93. 复原IP地址](src/Solution_93.java)                 | 1ms--99.79%      | 38.6 MB--89.69%            |  
 | [94. 二叉树的中序遍历](src/Solution_94.java)              | 0ms--100%      | 37.4 MB--5.79%            | 
 | [95. 不同的二叉搜索树 II](src/Solution_95.java)           | 2 ms--36.98%   | 40.3 MB--14.29%            | 
 | [96. 不同的二叉搜索树](src/Solution_96.java)              | 0ms--100%      | 36.2 MB--7.69%            | 
@@ -83,9 +84,23 @@ Programming ideas &amp; Code
 | [100. 相同的树](src/Solution_100.java)                   | 0ms--100%      | 37.3 MB--5.55%            | 
 | [101. 对称二叉树](src/Solution_101.java)                 |                |                           |    
 | [102. 二叉树的层序遍历](src/Solution_102.java)            | 1ms--92.90%    | 40.1MB--5.71%             |    
+| [103. 二叉树的锯齿形层次遍历](src/Solution_103.java)       | 1ms--98.00%    | 38.5MB--81.42%             |    
 | [104. 二叉树的最大深度](src/Solution_104.java)            | 0ms--100%      | 40.1MB--5.75%             |    
+| [105. 从前序与中序遍历序列构造二叉树](src/Solution_105.java) | 3ms--76.76%    | 40MB--80.06%             |    
+| [106. 从中序与后序遍历序列构造二叉树](src/Solution_106.java) | 2ms--97.66%    | 40.4MB--18.42%             |    
 | [107. 二叉树的层次遍历 II](src/Solution_107.java)         | 1ms--99.64%    | 39.8MB--7.41%             |    
-| [112. 路径总和](src/Solution_112.java)                   | 0ms--100%      | 39.7MB--6.52%             |  
+| [108. 将有序数组转换为二叉搜索树](src/Solution_108.java)    | 0ms--100%      | 39.5MB--94.69%             |    
+| [109. 有序链表转换二叉搜索树](src/Solution_109.java)       | 1ms--66.11%    | 41MB--58.63%             |    
+| [110. 平衡二叉树](src/Solution_110.java)                 | 1ms--99.73%    | 39.5--97.53%             |    
+| [111. 二叉树的最小深度](src/Solution_111.java)            | 0ms--100.00%   | 39.9--42.79%             |    
+| [112. 路径总和](src/Solution_112.java)                   | 0ms--100.00%   | 39.7MB--6.52%             |  
+| [113. 路径总和 II](src/Solution_113.java)                | 1ms--100.00%   | 40.3MB--34.87%             |  
+| [114. 二叉树展开为链表](src/Solution_114.java)             | 1ms--33.52%   | 39.5MB--56.82%             |  
+| [116. 填充每个节点的下一个右侧节点指针](src/Solution_116.java) | 0ms--100.00%   | 40.3MB--13.33%             |  
+| [117. 填充每个节点的下一个右侧节点指针 II](src/Solution_117.java)| 0ms--100.00%   | 39.7MB--13.64%             |  
+| [118. 杨辉三角](src/Solution_118.java)                   | 0ms--100.00%   | 37.4MB--48.75%             |  
+| [119. 杨辉三角 II](src/Solution_119.java)                 | 1ms--85.86%   | 37.3MB--42.28%             |  
+| [120. 三角形最小路径和](src/Solution_120.java)             | 3ms--73.58%   | 39.8 MB--75.51%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  

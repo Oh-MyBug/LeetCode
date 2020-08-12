@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_121.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +56,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,16 +86,9 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_91">
-    <configuration name="Solution_79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_79" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_80" />
+  <component name="RunManager" selected="Application.Solution_121">
+    <configuration name="Solution_121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_121" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,13 +115,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_93" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_121" />
+        <item itemvalue="Application.Solution_93" />
         <item itemvalue="Application.Solution_91" />
         <item itemvalue="Application.Solution_90" />
         <item itemvalue="Application.Solution_88" />
-        <item itemvalue="Application.Solution_80" />
-        <item itemvalue="Application.Solution_79" />
       </list>
     </recent_temporary>
   </component>
@@ -165,231 +164,14 @@
       <workItem from="1595326469080" duration="25513000" />
       <workItem from="1595572387142" duration="47861000" />
       <workItem from="1595962906635" duration="27294000" />
-      <workItem from="1596253331925" duration="179000" />
-    </task>
-    <task id="LOCAL-00036" summary="Update 35. 搜索插入位置">
-      <created>1595126232125</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1595126232125</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Update 36. 有效的数独">
-      <created>1595134246306</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1595134246306</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Update 38. 外观数列">
-      <created>1595137029356</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1595137029356</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Update">
-      <created>1595156220596</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1595156220596</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Update 40. 组合总和 II">
-      <created>1595158088810</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1595158088810</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Update 40. 组合总和 II">
-      <created>1595158096463</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1595158096463</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Update 40. 组合总和 II">
-      <created>1595158120660</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1595158120660</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Update">
-      <created>1595242485833</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1595242485833</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Update 43. 字符串相乘">
-      <created>1595242680242</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1595242680242</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Update 46. 全排列">
-      <created>1595242757425</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1595242757425</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Update 47. 全排列 II">
-      <created>1595242814572</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1595242814572</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Update 48. 旋转图像">
-      <created>1595242883933</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1595242883933</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Update 49. 字母异位词分组">
-      <created>1595300670969</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1595300670969</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Update 53. 最大子序和">
-      <created>1595341383355</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1595341383355</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Update 53. 最大子序和">
-      <created>1595341449818</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1595341449819</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Update 54. 螺旋矩阵">
-      <created>1595348065982</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1595348065982</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Update 54. 螺旋矩阵">
-      <created>1595348077663</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1595348077663</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Update 55. 跳跃游戏">
-      <created>1595476614982</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1595476614982</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Update 56. 合并区间">
-      <created>1595479794290</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1595479794290</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Update 62. 不同路径">
-      <created>1595526276573</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1595526276573</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Update 61. 旋转链表">
-      <created>1595526979110</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1595526979110</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Update 62. 不同路径">
-      <created>1595527038640</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1595527038640</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Update 63. 不同路径 II">
-      <created>1595529737305</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1595529737305</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Update 67. 二进制求和">
-      <created>1595678210597</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1595678210599</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Update 66. 加一">
-      <created>1595678252541</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1595678252541</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Update 64. 最小路径和">
-      <created>1595678266324</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1595678266324</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Update 69. x 的平方根">
-      <created>1595679898298</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1595679898298</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Update 70. 爬楼梯">
-      <created>1595682556327</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1595682556328</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Update">
-      <created>1595737765528</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1595737765528</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Update README.md">
-      <created>1595737875920</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1595737875920</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Update 58. 最后一个单词的长度">
-      <created>1595740597156</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1595740597156</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Update 58. 最后一个单词的长度">
-      <created>1595740614925</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1595740614925</updated>
+      <workItem from="1596253331925" duration="6464000" />
+      <workItem from="1596303154465" duration="294000" />
+      <workItem from="1596303458731" duration="245000" />
+      <workItem from="1596303727996" duration="5371000" />
+      <workItem from="1596431284992" duration="22141000" />
+      <workItem from="1596704146020" duration="822000" />
+      <workItem from="1596713623413" duration="1293000" />
+      <workItem from="1597244357908" duration="1944000" />
     </task>
     <task id="LOCAL-00068" summary="Update">
       <created>1595848474370</created>
@@ -510,7 +292,231 @@
       <option name="project" value="LOCAL" />
       <updated>1596176719833</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Update 91. 解码方法">
+      <created>1596254447313</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1596254447314</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Update 92. 反转链表 II">
+      <created>1596256372048</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1596256372048</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Update 103. 二叉树的锯齿形层次遍历">
+      <created>1596305654576</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305654577</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Update README.md">
+      <created>1596517683032</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517683032</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Update 105. 从前序与中序遍历序列构造二叉树">
+      <created>1596517700275</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517700275</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Update 106. 从中序与后序遍历序列构造二叉树">
+      <created>1596517708680</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517708680</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Update README.md">
+      <created>1596518378132</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1596518378132</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Update 108. 将有序数组转换为二叉搜索树">
+      <created>1596518388648</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1596518388648</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Update 109. 有序链表转换二叉搜索树">
+      <created>1596519829182</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519829182</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Update README.md">
+      <created>1596519838439</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519838439</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Update">
+      <created>1596519853125</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519853125</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Update 110. 平衡二叉树">
+      <created>1596521633373</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521633373</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Update 111. 二叉树的最小深度">
+      <created>1596521640875</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521640875</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Update README.md">
+      <created>1596521652295</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521652295</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Update README.md">
+      <created>1596560157671</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1596560157672</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Update 113. 路径总和 II">
+      <created>1596560165955</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1596560165955</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Update 113. 路径总和 II">
+      <created>1596560170136</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1596560170136</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Update README.md">
+      <created>1596564021921</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1596564021921</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Update 114. 二叉树展开为链表">
+      <created>1596564048193</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1596564048193</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Update 116. 填充每个节点的下一个右侧节点指针">
+      <created>1596564056653</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1596564056653</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Update 116. 填充每个节点的下一个右侧节点指针">
+      <created>1596564927564</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1596564927564</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Update README.md">
+      <created>1596564937563</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1596564937563</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Update README.md">
+      <created>1596566865681</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1596566865681</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Update 117. 填充每个节点的下一个右侧节点指针 II">
+      <created>1596566870376</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1596566870376</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Update">
+      <created>1596566878388</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1596566878389</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Update">
+      <created>1596566886247</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1596566886247</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Update  118. 杨辉三角">
+      <created>1596568018351</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1596568018351</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Update README.md">
+      <created>1596568026931</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1596568026931</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Update 119. 杨辉三角 II">
+      <created>1596702090673</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1596702090673</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Update README.md">
+      <created>1596704187770</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1596704187770</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Update 120. 三角形最小路径和">
+      <created>1597245852363</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1597245852364</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Update README.md">
+      <created>1597245863119</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1597245863119</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,24 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 55. 跳跃游戏" />
-    <MESSAGE value="Update 56. 合并区间" />
-    <MESSAGE value="Update 61. 旋转链表" />
-    <MESSAGE value="Update 62. 不同路径" />
-    <MESSAGE value="Update 63. 不同路径 II" />
-    <MESSAGE value="Update 67. 二进制求和" />
-    <MESSAGE value="Update 66. 加一" />
-    <MESSAGE value="Update 64. 最小路径和" />
-    <MESSAGE value="Update 69. x 的平方根" />
-    <MESSAGE value="Update 70. 爬楼梯" />
-    <MESSAGE value="Update README.md" />
-    <MESSAGE value="Update 58. 最后一个单词的长度" />
-    <MESSAGE value="Update" />
-    <MESSAGE value="Update 60. 第k个排列" />
-    <MESSAGE value="Update 71. 简化路径" />
-    <MESSAGE value="Update 73. 矩阵置零" />
-    <MESSAGE value="Update 74. 搜索二维矩阵" />
-    <MESSAGE value="Update 75. 颜色分类" />
     <MESSAGE value="Update 77. 组合" />
     <MESSAGE value="Update 78. 子集" />
     <MESSAGE value="Update 79. 单词搜索" />
@@ -555,13 +543,30 @@
     <MESSAGE value="Update 81. 搜索旋转排序数组 II" />
     <MESSAGE value="Update 88. 合并两个有序数组" />
     <MESSAGE value="Update 90. 子集 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 90. 子集 II" />
+    <MESSAGE value="Update 91. 解码方法" />
+    <MESSAGE value="Update 92. 反转链表 II" />
+    <MESSAGE value="Update 103. 二叉树的锯齿形层次遍历" />
+    <MESSAGE value="Update 105. 从前序与中序遍历序列构造二叉树" />
+    <MESSAGE value="Update 106. 从中序与后序遍历序列构造二叉树" />
+    <MESSAGE value="Update 108. 将有序数组转换为二叉搜索树" />
+    <MESSAGE value="Update 109. 有序链表转换二叉搜索树" />
+    <MESSAGE value="Update 110. 平衡二叉树" />
+    <MESSAGE value="Update 111. 二叉树的最小深度" />
+    <MESSAGE value="Update 113. 路径总和 II" />
+    <MESSAGE value="Update 114. 二叉树展开为链表" />
+    <MESSAGE value="Update 116. 填充每个节点的下一个右侧节点指针" />
+    <MESSAGE value="Update 117. 填充每个节点的下一个右侧节点指针 II" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update  118. 杨辉三角" />
+    <MESSAGE value="Update 119. 杨辉三角 II" />
+    <MESSAGE value="Update 120. 三角形最小路径和" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="374" y="137" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1200.760@0.0.1200.760" timestamp="1587622179913" />
     <state x="479" y="150" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.834@0.0.1536.834" timestamp="1594296015636" />
     <state x="514" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594388072635">
       <screen x="0" y="0" width="1536" height="834" />
@@ -570,7 +575,6 @@
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594290742148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="406" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1587628220953" />
     <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1594290742148" />
     <state x="544" y="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595682753299">
       <screen x="0" y="0" width="1536" height="834" />
@@ -592,26 +596,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="419" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1596053313353" />
-    <state x="323" y="137" key="FileChooserDialogImpl" timestamp="1594899711468">
+    <state x="323" y="137" key="FileChooserDialogImpl" timestamp="1596702171239">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594899711468" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1596182079425">
+    <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596702171239" />
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom" timestamp="1596303101346">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596182079425" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1596182079425">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596303101346" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center" timestamp="1596303101345">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596182079425" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1596182079425">
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596303101345" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left" timestamp="1596303101345">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596182079425" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1596182079425">
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596303101345" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right" timestamp="1596303101346">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596182079425" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596303101346" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1596182079426">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -628,31 +632,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1596182079426" />
-    <state x="273" y="89" key="SettingsEditor" timestamp="1596253368618">
+    <state x="170" y="76" width="1274" height="711" key="SettingsEditor" timestamp="1596713690317">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="69" y="34" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1587629176305" />
-    <state x="273" y="89" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596253368618" />
+    <state x="170" y="76" width="1274" height="711" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596713690317" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1594720498242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1596176720934">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597245869217">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596176720934" />
-    <state x="399" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587620714598">
-      <screen x="0" y="0" width="1200" height="760" />
-    </state>
-    <state x="399" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.760@0.0.1200.760" timestamp="1587620714598" />
-    <state x="499" y="173" key="extract.method.dialog" timestamp="1595677343105">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597245869217" />
+    <state x="499" y="173" key="extract.method.dialog" timestamp="1596566285614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="173" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1595677343105" />
+    <state x="499" y="173" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1596566285614" />
     <state x="467" y="18" width="602" height="798" key="find.popup" timestamp="1595683210501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="18" width="602" height="798" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1595683210501" />
+    <state x="560" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596522042750">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1596522042750" />
     <state x="0" y="0" key="new project wizard" timestamp="1594899718971">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -665,14 +668,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1594451473578" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1596031242472">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1596567336157">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="257" y="171" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1587617260914" />
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1596031242472" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1596176249215">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1596567336157" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1596628168983">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596176249215" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596628168983" />
   </component>
 </project>
