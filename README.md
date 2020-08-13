@@ -107,6 +107,7 @@ Programming ideas &amp; Code
 | [127. 单词接龙](src/Solution_127.java)                  | 551ms--36.75%   | 94.56MB--94.56%             |  
 | [129. 求根到叶子节点数字之和](src/Solution_129.java)        | 0ms--100.00%   | 37.1 MB--96.90%             |  
 | [130. 被围绕的区域](src/Solution_130.java)               | 2ms--98.17%   | 42.2 MB--10.71%             |  
+| [131. 分割回文串](src/Solution_131.java)               | 2ms--98.46%   | 40.8 MB--39.59%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
