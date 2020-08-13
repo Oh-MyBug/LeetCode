@@ -110,6 +110,7 @@ Programming ideas &amp; Code
 | [131. 分割回文串](src/Solution_131.java)               | 2ms--98.46%   | 40.8 MB--39.59%             |  
 | [133. 克隆图](src/Solution_133.java)                  | 35ms--96.12%   | 39.8 MB--83.26%             |  
 | [134. 加油站](src/Solution_134.java)                  | 0ms--100.00%   | 40 MB--64.89%             |  
+| [136. 只出现一次的数字](src/Solution_136.java)           | 1ms--99.67%   | 40.9 MB--31.34%             |  
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
