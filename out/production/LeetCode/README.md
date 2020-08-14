@@ -107,7 +107,21 @@ Programming ideas &amp; Code
 | [127. 单词接龙](src/Solution_127.java)                  | 551ms--36.75%   | 94.56MB--94.56%             |  
 | [129. 求根到叶子节点数字之和](src/Solution_129.java)        | 0ms--100.00%   | 37.1 MB--96.90%             |  
 | [130. 被围绕的区域](src/Solution_130.java)               | 2ms--98.17%   | 42.2 MB--10.71%             |  
+| [131. 分割回文串](src/Solution_131.java)               | 2ms--98.46%   | 40.8 MB--39.59%             |  
+| [133. 克隆图](src/Solution_133.java)                  | 35ms--96.12%   | 39.8 MB--83.26%             |  
+| [134. 加油站](src/Solution_134.java)                  | 0ms--100.00%   | 40 MB--64.89%             |  
+| [136. 只出现一次的数字](src/Solution_136.java)           | 1ms--99.67%   | 40.9 MB--31.34%             |  
+| [137. 只出现一次的数字 II](src/Solution_137.java)           | 2ms--65.50%   | 39.4 MB--82.27%             |  
+| [138. 复制带随机指针的链表](src/Solution_138.java)           | 0ms--100.00%   | 39.4 MB--63.12%             |  
+| [139. 单词拆分](src/Solution_139.java)                   |    |             |  动态规划
+| [141. 环形链表](src/Solution_141.java)                   |  0ms--100.00%   |   40.1 MB--27.47%        | 
+| [142. 环形链表 II](src/Solution_142.java)                |  0ms--100.00%   |   39.8 MB--71.29%        | 
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
+| [144. 二叉树的前序遍历](src/Solution_144.java)            |  0ms--100.00%   |   39.9 MB--53.26%        | 
+| [145. 二叉树的后序遍历](src/Solution_145.java)            |  0ms--100.00%   |   38 MB--38.06%        | 
+| [146. LRU缓存机制](src/Solution_146.java)               |  17ms--99.62%   |   47.9 MB--60.62%        | 
+| [147. 对链表进行插入排序](src/Solution_147.java)           |  3ms--98.60%   |   39.5 MB--37.91%        | 
+| [148. 排序链表](src/Solution_148.java)                  |  3ms--99.22%   |   42 MB--48.42%        | 
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
