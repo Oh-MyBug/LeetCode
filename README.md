@@ -117,6 +117,7 @@ Programming ideas &amp; Code
 | [141. 环形链表](src/Solution_141.java)                   |  0ms--100.00%   |   40.1 MB--27.47%        | 
 | [142. 环形链表 II](src/Solution_142.java)                |  0ms--100.00%   |   39.8 MB--71.29%        | 
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
+| [144. 二叉树的前序遍历](src/Solution_144.java)            |  0ms--100.00%   |   39.9 MB--53.26%        | 
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
