@@ -114,6 +114,7 @@ Programming ideas &amp; Code
 | [137. 只出现一次的数字 II](src/Solution_137.java)           | 2ms--65.50%   | 39.4 MB--82.27%             |  
 | [138. 复制带随机指针的链表](src/Solution_138.java)           | 0ms--100.00%   | 39.4 MB--63.12%             |  
 | [139. 单词拆分](src/Solution_139.java)                   |    |             |  动态规划
+| [141. 环形链表](src/Solution_141.java)                   |  0ms--100.00%   |   40.1 MB--27.47%        |  动态规划
 | [143. 重排链表](src/Solution_143.java)                   |                |                           |     
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
