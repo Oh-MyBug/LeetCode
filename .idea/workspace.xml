@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_155.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
@@ -89,28 +89,7 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_150">
-    <configuration name="Solution_127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_127" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_139" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_146" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution_155">
     <configuration name="Solution_147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_147" />
       <module name="LeetCode" />
@@ -125,13 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_151" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_152" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_155" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_155" />
+        <item itemvalue="Application.Solution_152" />
+        <item itemvalue="Application.Solution_151" />
         <item itemvalue="Application.Solution_150" />
         <item itemvalue="Application.Solution_147" />
-        <item itemvalue="Application.Solution_146" />
-        <item itemvalue="Application.Solution_139" />
-        <item itemvalue="Application.Solution_127" />
       </list>
     </recent_temporary>
   </component>
@@ -177,63 +177,8 @@
       <workItem from="1597244357908" duration="16498000" />
       <workItem from="1597294021454" duration="198000" />
       <workItem from="1597334870345" duration="20599000" />
-      <workItem from="1597421772248" duration="11031000" />
-    </task>
-    <task id="LOCAL-00111" summary="Update  118. 杨辉三角">
-      <created>1596568018351</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1596568018351</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Update README.md">
-      <created>1596568026931</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1596568026931</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Update 119. 杨辉三角 II">
-      <created>1596702090673</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1596702090673</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Update README.md">
-      <created>1596704187770</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1596704187770</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Update 120. 三角形最小路径和">
-      <created>1597245852363</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1597245852364</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Update README.md">
-      <created>1597245863119</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1597245863119</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Update 121. 买卖股票的最佳时机">
-      <created>1597252030707</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1597252030707</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Update">
-      <created>1597252065843</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1597252065843</updated>
+      <workItem from="1597421772248" duration="11752000" />
+      <workItem from="1597510374948" duration="13986000" />
     </task>
     <task id="LOCAL-00119" summary="Update 122. 买卖股票的最佳时机 II">
       <created>1597253175897</created>
@@ -522,7 +467,63 @@
       <option name="project" value="LOCAL" />
       <updated>1597432061996</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Update 150. 逆波兰表达式求值">
+      <created>1597433216006</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1597433216006</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Update README.md">
+      <created>1597433222131</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1597433222131</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Update">
+      <created>1597433230659</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1597433230659</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Update 151. 翻转字符串里的单词">
+      <created>1597513687086</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1597513687086</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Update README.md">
+      <created>1597513694526</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1597513694526</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Update README.md">
+      <created>1597516444098</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1597516444098</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Update 153. 寻找旋转排序数组中的最小值">
+      <created>1597516451847</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1597516451847</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Update 152. 乘积最大子数组">
+      <created>1597516458182</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1597516458182</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,14 +543,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update  118. 杨辉三角" />
-    <MESSAGE value="Update 119. 杨辉三角 II" />
-    <MESSAGE value="Update 120. 三角形最小路径和" />
-    <MESSAGE value="Update 121. 买卖股票的最佳时机" />
     <MESSAGE value="Update 122. 买卖股票的最佳时机 II" />
     <MESSAGE value="Update 125. 验证回文串" />
     <MESSAGE value="Update 129. 求根到叶子节点数字之和" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 130. 被围绕的区域" />
     <MESSAGE value="Update 127. 单词接龙" />
     <MESSAGE value="Update 131. 分割回文串" />
@@ -565,9 +561,14 @@
     <MESSAGE value="Update 145. 二叉树的后序遍历" />
     <MESSAGE value="Update 146. LRU缓存机制" />
     <MESSAGE value="Update 147. 对链表进行插入排序" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Update 148. 排序链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 148. 排序链表" />
+    <MESSAGE value="Update 150. 逆波兰表达式求值" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update 151. 翻转字符串里的单词" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update 153. 寻找旋转排序数组中的最小值" />
+    <MESSAGE value="Update 152. 乘积最大子数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 152. 乘积最大子数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -578,10 +579,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1594388072635" />
-    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594290742148">
+    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1597519871271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1594290742148" />
+    <state x="520" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1597519871271" />
     <state x="544" y="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595682753299">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -606,38 +607,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596702171239" />
-    <state width="1493" height="397" key="GridCell.Tab.0.bottom" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
-    <state width="1493" height="397" key="GridCell.Tab.0.center" timestamp="1597432898804">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597432898804" />
-    <state width="1493" height="397" key="GridCell.Tab.0.left" timestamp="1597432898804">
+    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597432898804" />
-    <state width="1493" height="397" key="GridCell.Tab.0.right" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
-    <state width="1493" height="397" key="GridCell.Tab.1.bottom" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
-    <state width="1493" height="397" key="GridCell.Tab.1.center" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.1.center" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
-    <state width="1493" height="397" key="GridCell.Tab.1.left" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.1.left" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
-    <state width="1493" height="397" key="GridCell.Tab.1.right" timestamp="1597432898805">
+    <state width="1493" height="281" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
+    <state width="1493" height="281" key="GridCell.Tab.1.right" timestamp="1597523628371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="397" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597432898805" />
+    <state width="1493" height="281" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597523628371" />
     <state x="170" y="76" width="1274" height="711" key="SettingsEditor" timestamp="1596713690317">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -646,10 +647,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597354856082">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597433236254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597354856082" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597433236254" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1596566285614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -678,13 +679,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1597256637420" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1596567336157">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1597523225995">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1596567336157" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1597423926653">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1597523225995" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1597513323545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597423926653" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597513323545" />
   </component>
 </project>
