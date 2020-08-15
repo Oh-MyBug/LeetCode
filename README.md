@@ -126,6 +126,7 @@ Programming ideas &amp; Code
 | [151. 翻转字符串里的单词](src/Solution_151.java)            |  7ms--47.39%   |   39.7 MB--87.28%        | 
 | [152. 乘积最大子数组](src/Solution_152.java)             |     |          |   动态规划
 | [153. 寻找旋转排序数组中的最小值](src/Solution_153.java)   |  0ms--100.00%   |   39.8 MB--8.69%        | 
+| [155. 最小栈](src/Solution_155.java)                    |  6ms--97.18%   |   41.7 MB--30.77%        | 
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
