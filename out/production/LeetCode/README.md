@@ -121,12 +121,18 @@ Programming ideas &amp; Code
 | [145. 二叉树的后序遍历](src/Solution_145.java)            |  0ms--100.00%   |   38 MB--38.06%        | 
 | [146. LRU缓存机制](src/Solution_146.java)               |  17ms--99.62%   |   47.9 MB--60.62%        | 
 | [147. 对链表进行插入排序](src/Solution_147.java)           |  3ms--98.60%   |   39.5 MB--37.91%        | 
-| [148. 排序链表](src/Solution_148.java)                  |  3ms--99.22%   |   42 MB--48.42%        | 
+| [148. 排序链表](src/Solution_148.java)                  |  3ms--99.22%   |   42 MB--48.42%          | 
 | [150. 逆波兰表达式求值](src/Solution_150.java)            |  6ms--89.30%   |   39.4 MB--79.06%        | 
 | [151. 翻转字符串里的单词](src/Solution_151.java)            |  7ms--47.39%   |   39.7 MB--87.28%        | 
 | [152. 乘积最大子数组](src/Solution_152.java)             |     |          |   动态规划
-| [153. 寻找旋转排序数组中的最小值](src/Solution_153.java)   |  0ms--100.00%   |   39.8 MB--8.69%        | 
+| [153. 寻找旋转排序数组中的最小值](src/Solution_153.java)   |  0ms--100.00%   |   39.8 MB--8.69%          | 
+| [155. 最小栈](src/Solution_155.java)                    |  6ms--97.18%   |   41.7 MB--30.77%         | 
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
+| [162. 寻找峰值](src/Solution_162.java)                   |  0ms--100.00%  |     39.3 MB--88.45%       |     
+| [165. 比较版本号](src/Solution_165.java)                   |  1ms--96.84%  |     37.7 MB--96.84%       |     
+| [166. 分数到小数](src/Solution_166.java)                   |  1ms--100.00%  |     37.2 MB--42.06%       |     
+| [167. 两数之和 II - 输入有序数组](src/Solution_166.java)     |  1ms--96.48%  |     39.9 MB--75.62%       |     
+| [168. Excel表列名称](src/Solution_168.java)              |  0ms--100.00%  |     36.9 MB--39.90%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
