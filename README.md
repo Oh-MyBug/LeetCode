@@ -133,6 +133,7 @@ Programming ideas &amp; Code
 | [166. 分数到小数](src/Solution_166.java)                   |  1ms--100.00%  |     37.2 MB--42.06%       |     
 | [167. 两数之和 II - 输入有序数组](src/Solution_166.java)     |  1ms--96.48%  |     39.9 MB--75.62%       |     
 | [168. Excel表列名称](src/Solution_168.java)              |  0ms--100.00%  |     36.9 MB--39.90%       |     
+| [169. 多数元素](src/Solution_169.java)                  |  2ms--77.23%  |     42.9 MB--84.99%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
