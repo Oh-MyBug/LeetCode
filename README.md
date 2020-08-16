@@ -130,6 +130,7 @@ Programming ideas &amp; Code
 | [160. 相交链表](src/Solution_160.java)                   |                |                           |     
 | [162. 寻找峰值](src/Solution_162.java)                   |  0ms--100.00%  |     39.3 MB--88.45%       |     
 | [165. 比较版本号](src/Solution_165.java)                   |  1ms--96.84%  |     37.7 MB--96.84%       |     
+| [166. 分数到小数](src/Solution_166.java)                   |  1ms--100.00%  |     37.2 MB--42.06%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
