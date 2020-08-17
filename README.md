@@ -138,6 +138,7 @@ Programming ideas &amp; Code
 | [172. 阶乘后的零](src/Solution_172.java)                |  1ms--99.80%  |     36.6 MB--75.75%       |     
 | [173. 二叉搜索树迭代器](src/Solution_173.java)            |  23ms--95.34%  |     45 MB--21.39%       |     
 | [179. 最大数](src/Solution_179.java)                     |  5ms--97.94%  |     38.9 MB--99.31%       |     
+| [187. 重复的DNA序列](src/Solution_187.java)             |  20ms--85.21%  |     46.6 MB--88.37%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
