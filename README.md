@@ -140,6 +140,7 @@ Programming ideas &amp; Code
 | [179. 最大数](src/Solution_179.java)                     |  5ms--97.94%  |     38.9 MB--99.31%       |     
 | [187. 重复的DNA序列](src/Solution_187.java)             |  20ms--85.21%  |     46.6 MB--88.37%       |     
 | [189. 旋转数组](src/Solution_189.java)                  |  0ms--100.00%  |     40.2 MB--72.53%       |     
+| [190. 颠倒二进制位](src/Solution_190.java)               |  1ms--100.00%  |     39.6 MB--26.97%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
