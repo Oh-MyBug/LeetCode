@@ -1,5 +1,14 @@
 # LeetCode
 Programming ideas &amp; Code
+
+### Data Structure
+
+### Algorithm
+- [Morris二叉树遍历算法](docs/Morris.md)
+- [KMP字符串匹配算法](docs/KMP.md)
+- [动态规划(Dynamic Programming, DP)](docs/DP.md)
+- [Oh_MyBug刷题冷知识](docs/Oh_MyBug刷题冷知识.md)
+
 ### List of solved problems
 | Title | Running Time | Memory Consumption | Note|
 |:-----|:-----:       |:-----:             |:-----             |
@@ -154,10 +163,3 @@ Programming ideas &amp; Code
 | [965. 单值二叉树](src/Solution_965.java)                 | 0ms--100%      | 37.7 MB--25%              |  
 | [1160. 拼写单词](src/Solution_1160.java)                 |                |                           |  
 | [1367. 二叉树中的列表](src/Solution_1367.java)            | 2 ms--28.96%   | 40.3 MB--100.00%          |  
-
-### Data Structure
-
-### Algorithm
-- [Morris二叉树遍历算法](docs/Morris.md)
-- [KMP字符串匹配算法](docs/KMP.md)
-- [动态规划(Dynamic Programming, DP)](docs/DP.md)

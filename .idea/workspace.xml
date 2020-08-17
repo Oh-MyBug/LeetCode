@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_190.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/docs/Morris.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/docs/Morris.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,28 +177,7 @@
       <workItem from="1597421772248" duration="11752000" />
       <workItem from="1597510374948" duration="14682000" />
       <workItem from="1597596412145" duration="9593000" />
-      <workItem from="1597676015072" duration="16699000" />
-    </task>
-    <task id="LOCAL-00149" summary="Update README.md">
-      <created>1597424095888</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1597424095888</updated>
-    </task>
-    <task id="LOCAL-00150" summary="Update 144. 二叉树的前序遍历">
-      <created>1597424101137</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1597424101137</updated>
-    </task>
-    <task id="LOCAL-00151" summary="Update 145. 二叉树的后序遍历">
-      <created>1597424216390</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1597424216390</updated>
+      <workItem from="1597676015072" duration="17073000" />
     </task>
     <task id="LOCAL-00152" summary="Update README.md">
       <created>1597424223221</created>
@@ -526,7 +501,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597690864464</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="Update README.md">
+      <created>1597692883010</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1597692883010</updated>
+    </task>
+    <task id="LOCAL-00199" summary="Update 190. 颠倒二进制位">
+      <created>1597692887769</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1597692887769</updated>
+    </task>
+    <task id="LOCAL-00200" summary="Update">
+      <created>1597692895801</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1597692895801</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 145. 二叉树的后序遍历" />
     <MESSAGE value="Update 146. LRU缓存机制" />
     <MESSAGE value="Update 147. 对链表进行插入排序" />
     <MESSAGE value="Update 148. 排序链表" />
@@ -562,7 +557,6 @@
     <MESSAGE value="Update 167. 两数之和 II - 输入有序数组" />
     <MESSAGE value="Update 168. Excel表列名称" />
     <MESSAGE value="Update 169. 多数元素" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 171. Excel表列序号" />
     <MESSAGE value="Update 172. 阶乘后的零" />
     <MESSAGE value="Update Morris.md" />
@@ -571,7 +565,9 @@
     <MESSAGE value="Update 187. 重复的DNA序列" />
     <MESSAGE value="Update 189. 旋转数组" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Update 190. 颠倒二进制位" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -650,10 +646,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597605405465">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597692900949">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597605405465" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597692900949" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1596566285614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
