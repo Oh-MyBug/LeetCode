@@ -21,16 +21,22 @@
  */
 public class Solution_190 {
 
+    /*
+    算法：
+        我们可以通过以下步骤实现该算法：
+        首先，我们将原来的 32 位分为 2 个 16 位的块。
+        然后我们将 16 位块分成 2 个 8 位的块。
+        然后我们继续将这些块分成更小的块，直到达到 1 位的块。
+        在上述每个步骤中，我们将中间结果合并为一个整数，作为下一步的输入。
+     */
     public int reverseBits(int n) {
-        char[] nums = Integer.toBinaryString(n).toCharArray();
-        int start = 0, end = nums.length - 1;
-        while (start < end) {
-            char temp = nums[start];
-            nums[start++] = nums[end];
-            nums[end--] = temp;
-        }
-        return Integer.parseUnsignedInt(String.valueOf(nums) + "0".repeat(32 - nums.length));
-        // 43261596
+        n = (n & 0x55555555) << 1 | (n >>> 1) & 0x55555555;
+        n = (n & 0x33333333) << 2 | (n >>> 2) & 0x33333333;
+        n = (n & 0x0f0f0f0f) << 4 | (n >>> 4) & 0x0f0f0f0f;
+        return  (n << 24)            |
+                ((n & 0xff00) << 8)  |
+                ((n >>> 8) & 0xff00) |
+                (n >>> 24);
     }
 
     public static void main(String[] args) {
