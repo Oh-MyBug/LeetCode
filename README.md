@@ -157,6 +157,7 @@ Programming ideas &amp; Code
 | [201. 数字范围按位与](src/Solution_201.java)               |  7ms--38.05%  |     39.3 MB--21.98%       |     
 | [202. 快乐数](src/Solution_202.java)                     |  2ms--49.53%  |     37.1 MB--18.64%       |     
 | [203. 移除链表元素](src/Solution_203.java)                 |  1ms--99.66%  |     40.7 MB--47.00%       |     
+| [204. 计数质数](src/Solution_204.java)                   |  16ms--78.03%  |     38.5 MB--25.61%       |     
 | [206. 反转链表](src/Solution_206.java)                   |                |                           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
