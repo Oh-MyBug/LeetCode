@@ -35,12 +35,13 @@ public class Solution_198 {
 //        return dp[len - 1];
 //    }
 
+    // 空间复杂度 O(1)
     public int rob(int[] nums) {
         int len = nums.length;
         if (len == 0) return 0;
         if (len == 1) return nums[0];
         if (len == 2) return Math.max(nums[0], nums[1]);
-        int pre = nums[0], cur = nums[1];
+        int pre = nums[0], cur = Math.max(nums[0], nums[1]);
         for (int i = 2; i < len; i++) {
             int temp = cur;
             cur = Math.max(pre + nums[i], cur);

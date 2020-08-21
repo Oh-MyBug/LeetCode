@@ -20,13 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Brian_Kernighan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/拓扑排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trie/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_190.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_190.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_190.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_198.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_198.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_198.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +75,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/Trie" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -69,6 +83,20 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Learning_2020\LeetCode\images\Trie" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images\DP" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\other" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_3" />
+      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohmybug.fifty_2" />
+      <recent name="com.ohmybug.fifty_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YM\Desktop\LeetCode\images\DP" />
       <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_1" />
@@ -76,52 +104,38 @@
       <recent name="C:\Users\YM\Desktop\LeetCode\images\Morris" />
       <recent name="C:\Users\YM\Desktop\LeetCode\images" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.ohmybug.fifty_2" />
-      <recent name="com.ohmybug.fifty_1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\YM\Desktop\LeetCode\images\DP" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\other" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\src\com\ohmybug\fifty_3" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\images\KMP" />
-      <recent name="C:\Users\YM\Desktop\LeetCode\images" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_198">
-    <configuration name="Solution_179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_179" />
+  <component name="RunManager" selected="Application.Solution_209">
+    <configuration name="Solution_201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_201" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_189" />
+    <configuration name="Solution_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_202" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_190" />
+    <configuration name="Solution_203" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_203" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_191" />
+    <configuration name="Solution_205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_205" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_198" />
+    <configuration name="Solution_209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_209" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_198" />
-        <item itemvalue="Application.Solution_191" />
-        <item itemvalue="Application.Solution_190" />
-        <item itemvalue="Application.Solution_189" />
-        <item itemvalue="Application.Solution_179" />
+        <item itemvalue="Application.Solution_209" />
+        <item itemvalue="Application.Solution_205" />
+        <item itemvalue="Application.Solution_203" />
+        <item itemvalue="Application.Solution_202" />
+        <item itemvalue="Application.Solution_201" />
       </list>
     </recent_temporary>
   </component>
@@ -183,133 +197,8 @@
       <workItem from="1597510374948" duration="14682000" />
       <workItem from="1597596412145" duration="9593000" />
       <workItem from="1597676015072" duration="17847000" />
-      <workItem from="1597767822935" duration="5746000" />
-    </task>
-    <task id="LOCAL-00159" summary="Update 148. 排序链表">
-      <created>1597432061996</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1597432061996</updated>
-    </task>
-    <task id="LOCAL-00160" summary="Update 150. 逆波兰表达式求值">
-      <created>1597433216006</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1597433216006</updated>
-    </task>
-    <task id="LOCAL-00161" summary="Update README.md">
-      <created>1597433222131</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1597433222131</updated>
-    </task>
-    <task id="LOCAL-00162" summary="Update">
-      <created>1597433230659</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1597433230659</updated>
-    </task>
-    <task id="LOCAL-00163" summary="Update 151. 翻转字符串里的单词">
-      <created>1597513687086</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1597513687086</updated>
-    </task>
-    <task id="LOCAL-00164" summary="Update README.md">
-      <created>1597513694526</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1597513694526</updated>
-    </task>
-    <task id="LOCAL-00165" summary="Update README.md">
-      <created>1597516444098</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1597516444098</updated>
-    </task>
-    <task id="LOCAL-00166" summary="Update 153. 寻找旋转排序数组中的最小值">
-      <created>1597516451847</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1597516451847</updated>
-    </task>
-    <task id="LOCAL-00167" summary="Update 152. 乘积最大子数组">
-      <created>1597516458182</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1597516458182</updated>
-    </task>
-    <task id="LOCAL-00168" summary="Update 155. 最小栈">
-      <created>1597524383293</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1597524383294</updated>
-    </task>
-    <task id="LOCAL-00169" summary="Update README.md">
-      <created>1597524390554</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1597524390554</updated>
-    </task>
-    <task id="LOCAL-00170" summary="Update">
-      <created>1597524399270</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1597524399273</updated>
-    </task>
-    <task id="LOCAL-00171" summary="Update 162. 寻找峰值">
-      <created>1597597756381</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1597597756381</updated>
-    </task>
-    <task id="LOCAL-00172" summary="Update README.md">
-      <created>1597597764547</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1597597764547</updated>
-    </task>
-    <task id="LOCAL-00173" summary="Update 165. 比较版本号">
-      <created>1597598690183</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1597598690183</updated>
-    </task>
-    <task id="LOCAL-00174" summary="Update README.md">
-      <created>1597598719735</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1597598719735</updated>
-    </task>
-    <task id="LOCAL-00175" summary="Update README.md">
-      <created>1597601153870</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1597601153871</updated>
-    </task>
-    <task id="LOCAL-00176" summary="Update 166. 分数到小数">
-      <created>1597601161062</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1597601161063</updated>
+      <workItem from="1597767822935" duration="6988000" />
+      <workItem from="1597855029578" duration="23409000" />
     </task>
     <task id="LOCAL-00177" summary="Update Oh_MyBug刷题冷知识.md">
       <created>1597601172738</created>
@@ -528,7 +417,133 @@
       <option name="project" value="LOCAL" />
       <updated>1597772380961</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="Update 200. 岛屿数量">
+      <created>1597773606885</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1597773606885</updated>
+    </task>
+    <task id="LOCAL-00209" summary="Update README.md">
+      <created>1597773613528</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1597773613528</updated>
+    </task>
+    <task id="LOCAL-00210" summary="Update">
+      <created>1597773627846</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1597773627846</updated>
+    </task>
+    <task id="LOCAL-00211" summary="Update 201. 数字范围按位与">
+      <created>1597856135653</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1597856135653</updated>
+    </task>
+    <task id="LOCAL-00212" summary="Update README.md">
+      <created>1597856145697</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1597856145697</updated>
+    </task>
+    <task id="LOCAL-00213" summary="Update 202. 快乐数">
+      <created>1597858121106</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1597858121107</updated>
+    </task>
+    <task id="LOCAL-00214" summary="Update README.md">
+      <created>1597858150616</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1597858150616</updated>
+    </task>
+    <task id="LOCAL-00215" summary="Update README.md">
+      <created>1597858837447</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1597858837447</updated>
+    </task>
+    <task id="LOCAL-00216" summary="Update 203. 移除链表元素">
+      <created>1597858845078</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1597858845078</updated>
+    </task>
+    <task id="LOCAL-00217" summary="Update 204. 计数质数">
+      <created>1597859574133</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1597859574134</updated>
+    </task>
+    <task id="LOCAL-00218" summary="Update README.md">
+      <created>1597859585042</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1597859585042</updated>
+    </task>
+    <task id="LOCAL-00219" summary="Update README.md">
+      <created>1597862720349</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1597862720349</updated>
+    </task>
+    <task id="LOCAL-00220" summary="Update 205. 同构字符串">
+      <created>1597862728663</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1597862728663</updated>
+    </task>
+    <task id="LOCAL-00221" summary="Update 209. 长度最小的子数组">
+      <created>1597868439576</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1597868439576</updated>
+    </task>
+    <task id="LOCAL-00222" summary="Update README.md">
+      <created>1597868460035</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1597868460036</updated>
+    </task>
+    <task id="LOCAL-00223" summary="Update README.md">
+      <created>1597996277362</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1597996277362</updated>
+    </task>
+    <task id="LOCAL-00224" summary="Update PPT">
+      <created>1597996286473</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1597996286473</updated>
+    </task>
+    <task id="LOCAL-00225" summary="Update Trie.md">
+      <created>1597996305127</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1597996305127</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,15 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 150. 逆波兰表达式求值" />
-    <MESSAGE value="Update 151. 翻转字符串里的单词" />
-    <MESSAGE value="Update 153. 寻找旋转排序数组中的最小值" />
-    <MESSAGE value="Update 152. 乘积最大子数组" />
-    <MESSAGE value="Update 155. 最小栈" />
-    <MESSAGE value="Update 162. 寻找峰值" />
-    <MESSAGE value="Update 165. 比较版本号" />
-    <MESSAGE value="Update 166. 分数到小数" />
-    <MESSAGE value="Update Oh_MyBug刷题冷知识.md" />
     <MESSAGE value="Update 167. 两数之和 II - 输入有序数组" />
     <MESSAGE value="Update 168. Excel表列名称" />
     <MESSAGE value="Update 169. 多数元素" />
@@ -568,12 +574,21 @@
     <MESSAGE value="Update 187. 重复的DNA序列" />
     <MESSAGE value="Update 189. 旋转数组" />
     <MESSAGE value="Update 190. 颠倒二进制位" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 191. 位1的个数" />
     <MESSAGE value="Update 198. 打家劫舍" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Update 199. 二叉树的右视图" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 199. 二叉树的右视图" />
+    <MESSAGE value="Update 200. 岛屿数量" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update 201. 数字范围按位与" />
+    <MESSAGE value="Update 202. 快乐数" />
+    <MESSAGE value="Update 203. 移除链表元素" />
+    <MESSAGE value="Update 204. 计数质数" />
+    <MESSAGE value="Update 205. 同构字符串" />
+    <MESSAGE value="Update 209. 长度最小的子数组" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update PPT" />
+    <MESSAGE value="Update Trie.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Trie.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -612,38 +627,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="137" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596702171239" />
-    <state width="1493" height="297" key="GridCell.Tab.0.bottom" timestamp="1597769754262">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1597992516172">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597769754262" />
-    <state width="1493" height="297" key="GridCell.Tab.0.center" timestamp="1597769754262">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597992516172" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1597992516172">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597769754262" />
-    <state width="1493" height="297" key="GridCell.Tab.0.left" timestamp="1597769754262">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597992516172" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1597992516172">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597769754262" />
-    <state width="1493" height="297" key="GridCell.Tab.0.right" timestamp="1597769754262">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597992516172" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1597992516172">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597769754262" />
-    <state width="1493" height="297" key="GridCell.Tab.1.bottom" timestamp="1597769754415">
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597992516172" />
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom" timestamp="1597868160255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597769754415" />
-    <state width="1493" height="297" key="GridCell.Tab.1.center" timestamp="1597769754415">
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597868160255" />
+    <state width="1493" height="216" key="GridCell.Tab.1.center" timestamp="1597868160255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597769754415" />
-    <state width="1493" height="297" key="GridCell.Tab.1.left" timestamp="1597769754413">
+    <state width="1493" height="216" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597868160255" />
+    <state width="1493" height="216" key="GridCell.Tab.1.left" timestamp="1597868160254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597769754413" />
-    <state width="1493" height="297" key="GridCell.Tab.1.right" timestamp="1597769754415">
+    <state width="1493" height="216" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597868160254" />
+    <state width="1493" height="216" key="GridCell.Tab.1.right" timestamp="1597868160255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="297" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597769754415" />
+    <state width="1493" height="216" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597868160255" />
     <state x="170" y="76" width="1274" height="711" key="SettingsEditor" timestamp="1596713690317">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -652,10 +667,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597693261589">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597868465888">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597693261589" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597868465888" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1597771994960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -684,14 +699,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1597256637420" />
-    <state x="329" y="188" key="run.anything.popup" timestamp="1597770236269">
+    <state x="329" y="188" key="run.anything.popup" timestamp="1597988206573">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1597770236269" />
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1597683057122">
+    <state x="329" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1597988206573" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup" timestamp="1597865537927">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597683057122" />
+    <state x="337" y="89" width="861" height="745" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597865537927" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

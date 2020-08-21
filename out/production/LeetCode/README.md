@@ -142,16 +142,25 @@ Programming ideas &amp; Code
 | [166. 分数到小数](src/Solution_166.java)                   |  1ms--100.00%  |     37.2 MB--42.06%       |     
 | [167. 两数之和 II - 输入有序数组](src/Solution_166.java)     |  1ms--96.48%  |     39.9 MB--75.62%       |     
 | [168. Excel表列名称](src/Solution_168.java)              |  0ms--100.00%  |     36.9 MB--39.90%       |     
-| [169. 多数元素](src/Solution_169.java)                  |  2ms--77.23%  |     42.9 MB--84.99%       |     
+| [169. 多数元素](src/Solution_169.java)                   |  2ms--77.23%  |     42.9 MB--84.99%       |     
 | [171. Excel表列序号](src/Solution_171.java)              |  1ms--100.00%  |     38.5 MB--39.17%       |     
-| [172. 阶乘后的零](src/Solution_172.java)                |  1ms--99.80%  |     36.6 MB--75.75%       |     
-| [173. 二叉搜索树迭代器](src/Solution_173.java)            |  23ms--95.34%  |     45 MB--21.39%       |     
+| [172. 阶乘后的零](src/Solution_172.java)                 |  1ms--99.80%  |     36.6 MB--75.75%       |     
+| [173. 二叉搜索树迭代器](src/Solution_173.java)             |  23ms--95.34%  |     45 MB--21.39%       |     
 | [179. 最大数](src/Solution_179.java)                     |  5ms--97.94%  |     38.9 MB--99.31%       |     
-| [187. 重复的DNA序列](src/Solution_187.java)             |  20ms--85.21%  |     46.6 MB--88.37%       |     
-| [189. 旋转数组](src/Solution_189.java)                  |  0ms--100.00%  |     40.2 MB--72.53%       |     
-| [190. 颠倒二进制位](src/Solution_190.java)               |  1ms--100.00%  |     39.6 MB--26.97%       |     
-| [191. 位1的个数](src/Solution_191.java)               |  1ms--98.85%  |     36.7 MB--41.86%       |     
-| [206. 反转链表](src/Solution_206.java)                   |                |                           |  
+| [187. 重复的DNA序列](src/Solution_187.java)              |  20ms--85.21%  |     46.6 MB--88.37%       |     
+| [189. 旋转数组](src/Solution_189.java)                   |  0ms--100.00%  |     40.2 MB--72.53%       |     
+| [190. 颠倒二进制位](src/Solution_190.java)                |  1ms--100.00%  |     39.6 MB--26.97%       |     
+| [191. 位1的个数](src/Solution_191.java)                  |  1ms--98.85%  |     36.7 MB--41.86%       |     
+| [198. 打家劫舍](src/Solution_198.java)                   |  0ms--100.00%  |     36.9 MB--91.93%       |     
+| [199. 二叉树的右视图](src/Solution_199.java)              |  1ms--95.90%  |     38.1 MB--86.94%       |     
+| [200. 岛屿数量](src/Solution_200.java)                   |  2ms--97.51%  |     42 MB--95.00%       |     
+| [201. 数字范围按位与](src/Solution_201.java)               |  7ms--38.05%  |     39.3 MB--21.98%       |     
+| [202. 快乐数](src/Solution_202.java)                     |  2ms--49.53%  |     37.1 MB--18.64%       |     
+| [203. 移除链表元素](src/Solution_203.java)                 |  1ms--99.66%  |     40.7 MB--47.00%       |     
+| [204. 计数质数](src/Solution_204.java)                   |  16ms--78.03%  |     38.5 MB--25.61%       |     
+| [205. 同构字符串](src/Solution_205.java)                   |  4ms--95.93%  |     40 MB--33.89%       |     
+| [206. 反转链表](src/Solution_206.java)                   |  0ms--100.00%  |     39.5 MB--72.62%        |  
+| [208. 实现 Trie (前缀树)](src/Solution_208.java)         |  39ms--99.30%  |  50.4 MB--45.01%          |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
