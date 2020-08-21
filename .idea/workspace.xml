@@ -20,27 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36782b5-a9e1-4984-8f7e-76888458b912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Brian_Kernighan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/拓扑排序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Trie/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution_198.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution_198.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/src/Solution_198.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/拓扑排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/拓扑排序.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,21 +179,7 @@
       <workItem from="1597596412145" duration="9593000" />
       <workItem from="1597676015072" duration="17847000" />
       <workItem from="1597767822935" duration="6988000" />
-      <workItem from="1597855029578" duration="23409000" />
-    </task>
-    <task id="LOCAL-00177" summary="Update Oh_MyBug刷题冷知识.md">
-      <created>1597601172738</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1597601172738</updated>
-    </task>
-    <task id="LOCAL-00178" summary="Update 167. 两数之和 II - 输入有序数组">
-      <created>1597602009852</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1597602009852</updated>
+      <workItem from="1597855029578" duration="23591000" />
     </task>
     <task id="LOCAL-00179" summary="Update README.md">
       <created>1597602015954</created>
@@ -543,7 +510,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597996305127</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="Update 208. 实现 Trie (前缀树)">
+      <created>1597996327484</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1597996327484</updated>
+    </task>
+    <task id="LOCAL-00227" summary="Update">
+      <created>1597996360317</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1597996360317</updated>
+    </task>
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +544,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 167. 两数之和 II - 输入有序数组" />
     <MESSAGE value="Update 168. Excel表列名称" />
     <MESSAGE value="Update 169. 多数元素" />
     <MESSAGE value="Update 171. Excel表列序号" />
@@ -578,7 +558,6 @@
     <MESSAGE value="Update 198. 打家劫舍" />
     <MESSAGE value="Update 199. 二叉树的右视图" />
     <MESSAGE value="Update 200. 岛屿数量" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Update 201. 数字范围按位与" />
     <MESSAGE value="Update 202. 快乐数" />
     <MESSAGE value="Update 203. 移除链表元素" />
@@ -588,7 +567,9 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Update PPT" />
     <MESSAGE value="Update Trie.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Trie.md" />
+    <MESSAGE value="Update 208. 实现 Trie (前缀树)" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="150" width="656" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594296015636">
@@ -667,10 +648,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1594720498242" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597868465888">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597996366516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597868465888" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597996366516" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1597771994960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
