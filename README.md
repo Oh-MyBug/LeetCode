@@ -161,6 +161,7 @@ Programming ideas &amp; Code
 | [204. 计数质数](src/Solution_204.java)                   |  16ms--78.03%  |     38.5 MB--25.61%       |     
 | [205. 同构字符串](src/Solution_205.java)                   |  4ms--95.93%  |     40 MB--33.89%       |     
 | [206. 反转链表](src/Solution_206.java)                   |  0ms--100.00%  |     39.5 MB--72.62%        |  
+| [207. 课程表](src/Solution_207.java)                     |  3ms--99.40%  |     40.2 MB--68.78%        |  
 | [208. 实现 TrieNode (前缀树)](src/Solution_208.java)         |  39ms--99.30%  |  50.4 MB--45.01%          |  
 | [209. 长度最小的子数组](src/Solution_209.java)            |  2ms--87.05%  |  39.7 MB--79.28%          |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
