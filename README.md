@@ -166,6 +166,8 @@ Programming ideas &amp; Code
 | [209. 长度最小的子数组](src/Solution_209.java)            |  2ms--87.05%  |  39.7 MB--79.28%          |  
 | [210. 课程表 II](src/Solution_210.java)                |  4ms--95.76%  |  41.4 MB--15.32%          |  
 | [211. 添加与搜索单词 - 数据结构设计](src/Solution_211.java) |  51ms--90.88%  |  51 MB--19.72%          |  
+| [213. 打家劫舍 II](src/Solution_211.java) |  | |  动态规划
+| [215. 数组中的第K个最大元素](src/Solution_215.java)        | 1ms--99.49%    | 40.4  MB--21.61%           |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
