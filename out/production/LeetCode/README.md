@@ -2,6 +2,7 @@
 Programming ideas &amp; Code
 
 ### Data Structure
+- [Trie 树](docs/Trie.md)
 
 ### Algorithm
 - [Morris二叉树遍历算法](docs/Morris.md)
@@ -160,7 +161,17 @@ Programming ideas &amp; Code
 | [204. 计数质数](src/Solution_204.java)                   |  16ms--78.03%  |     38.5 MB--25.61%       |     
 | [205. 同构字符串](src/Solution_205.java)                   |  4ms--95.93%  |     40 MB--33.89%       |     
 | [206. 反转链表](src/Solution_206.java)                   |  0ms--100.00%  |     39.5 MB--72.62%        |  
-| [208. 实现 Trie (前缀树)](src/Solution_208.java)         |  39ms--99.30%  |  50.4 MB--45.01%          |  
+| [207. 课程表](src/Solution_207.java)                     |  3ms--99.40%  |     40.2 MB--68.78%        |  
+| [208. 实现 TrieNode (前缀树)](src/Solution_208.java)         |  39ms--99.30%  |  50.4 MB--45.01%          |  
+| [209. 长度最小的子数组](src/Solution_209.java)            |  2ms--87.05%  |  39.7 MB--79.28%          |  
+| [210. 课程表 II](src/Solution_210.java)                |  4ms--95.76%  |  41.4 MB--15.32%          |  
+| [211. 添加与搜索单词 - 数据结构设计](src/Solution_211.java) |  51ms--90.88%  |  51 MB--19.72%          |  
+| [213. 打家劫舍 II](src/Solution_211.java) |  | |  动态规划
+| [215. 数组中的第K个最大元素](src/Solution_215.java)        | 1ms--99.49%    | 40.4 MB--21.61%           |  题解要看
+| [216. 组合总和 III](src/Solution_216.java)                | 0ms--100.00%    | 37.2 MB--38.27%           |  
+| [217. 存在重复元素](src/Solution_217.java)                | 4ms--98.94%    | 43.4 MB--97.98%           |  
+| [219. 存在重复元素 II](src/Solution_219.java)             | 8ms--96.25%    | 43.1 MB--61.43%           |  
+| [220. 存在重复元素 III](src/Solution_220.java)             | 8ms--96.25%    | 43.1 MB--61.43%           |  先写完十种排序
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
