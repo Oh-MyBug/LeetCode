@@ -182,6 +182,7 @@ Programming ideas &amp; Code
 | [229. 求众数 II](src/Solution_229.java)                  |     |            |  摩尔投票法
 | [230. 二叉搜索树中第K小的元素](src/Solution_230.java)       | 0ms--100.00%    |  39.7 MB--57.81%          |  
 | [231. 2的幂](src/Solution_231.java)                     | 1ms--100.00%    |  36.9 MB--55.60%          |  
+| [232. 用栈实现队列](src/Solution_232.java)                | 0ms--100.00%    |  37.4 MB--55.48%          |  
 | [234. 回文链表](src/Solution_234.java)                   | 1ms--99.84%    | 42.6 MB--10.81%           |  
 | [235. 二叉搜索树的最近公共祖先](src/Solution_235.java)     | 6ms--99.85%     | 40.3 MB--6.06%            |  
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
