@@ -189,6 +189,8 @@ Programming ideas &amp; Code
 | [237. 删除链表中的节点](src/Solution_237.java)           | 0ms--100.00%     | 39.3 MB--62.81%            |  
 | [238. 除自身以外数组的乘积](src/Solution_238.java)         | 1ms--100.00%     | 48.5 MB--24.70%            |  
 | [240. 搜索二维矩阵 II](src/Solution_240.java)           | 6ms--99.78%     | 48.5 MB--10.92%            |  
+| [241. 为运算表达式设计优先级](src/Solution_241.java)           |      |             |   不会，没思路
+| [242. 有效的字母异位词](src/Solution_242.java)           | 2ms--99.82%     | 40.1 MB--34.74%            |
 | [295. 数据流的中位数](src/Solution_295.java)              |                |                           |     
 | [350. 两个数组的交集 II](src/Solution_350.java)           |                |                           |     
 | [506. 相对名次](src/Solution_506.java)                   |                |                           |
